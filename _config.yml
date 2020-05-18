@@ -1,0 +1,36 @@
+name: Micro
+description: The simplest way to build, share and collaborate on microservices
+meta_description: "The fastest way to build, share and collaborate on services in the Cloud and beyond"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
+future: true
+plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
+# Details for the RSS feed generator
+url:            'https://micro.mu/'
+author:         'Asim Aslam'
+author_url:	'https://twitter.com/malsamisa'
+paginate_path: "/blog/page:num/"
+google_analytics: UA-70478210-1
+sidebars:
+- home_sidebar
+defaults:
+  -
+    scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "docs/page"
+      comments: true
+      search: true
+      sidebar: home_sidebar
+      lang: en
+
+output: web
+topnav_title: Micro
+site_title: Micro
+company_name: Micro Services, Inc
