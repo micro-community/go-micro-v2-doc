@@ -1,3 +1,0 @@
-# Website
-
-https://micro.mu
