@@ -34,3 +34,4 @@ output: web
 topnav_title: Micro
 site_title: Micro
 company_name: Micro Services, Inc
+baseurl: ""
