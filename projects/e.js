@@ -1,4 +1,4 @@
-var project_url = "https://web.micro.mu/projects";
+var project_url = "https://micro.mu/projects";
 
 function getURLVars() {
     var vars = [], hash;
