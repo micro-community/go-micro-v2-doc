@@ -166,7 +166,7 @@ function loadRecent() {
 }
 
 function loadResults() {
-    var url = project_url + "/api/search";
+    var url = window.location.href.replace(/search.html/, "/api/search");
 
     $.ajax({url: url, 'type': "GET", dataType: 'json', success: function(data) {
         if (data.repos == undefined) {
