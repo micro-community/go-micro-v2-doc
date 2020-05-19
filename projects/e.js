@@ -223,7 +223,7 @@ function loadListener() {
         if (window.location.pathname == "/projects/search.html") {
             window.location.search = "?q=" + q;
 	} else {
-            window.location = window.location.href + "/search.html?q=" + q;
+            window.location = window.location.href + "search.html?q=" + q;
         }
     });
 
