@@ -1,4 +1,5 @@
 name: Micro
+company_name: Micro Services, Inc
 description: The simplest way to build, share and collaborate on microservices
 meta_description: "The fastest way to build, share and collaborate on services in the Cloud and beyond"
 
@@ -33,5 +34,4 @@ defaults:
 output: web
 topnav_title: Micro
 site_title: Micro
-company_name: Micro Services, Inc
 baseurl: ""

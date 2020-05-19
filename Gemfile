@@ -13,4 +13,4 @@ gem "redcarpet", "~> 3.5"
 gem "jekyll-gist", "~> 1.5"
 gem "kramdown", "~> 2.1"
 source "https://rubygems.org"
-
+gem 'jekyll-redirect-from'
