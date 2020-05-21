@@ -35,3 +35,4 @@ output: web
 topnav_title: Micro
 site_title: Micro
 baseurl: ""
+exclude: [main.go]
