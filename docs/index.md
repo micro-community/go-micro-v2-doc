@@ -4,7 +4,6 @@ keywords: homepage
 tags: [introduction]
 sidebar: home_sidebar
 permalink: /docs/index.html
-layout: docs/default
 ---
 
 Micro addresses the key requirements for building distributed systems in the Cloud and beyond. It leverages the microservices
