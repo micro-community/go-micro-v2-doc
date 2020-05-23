@@ -39,12 +39,12 @@ function render(ul, v) {
     if (v.lang == "Go") {
 	    ul.append('<li class="list-inline-item"><img src="https://micro.mu/images/go.png" style="height: 14px; width: auto; margin-bottom: 2px;" /></li>');
     } else {
-	    ul.append('<li class="list-inline-item"><i class="fa fa-language" aria-hidden="true"></i> '+v.lang+'</li>');
+	    ul.append('<li class="list-inline-item"><i class="fas fa-language" aria-hidden="true"></i> '+v.lang+'</li>');
     }
-    ul.append('<li class="list-inline-item"><i class="fa fa-star" aria-hidden="true"></i> '+stars+'</li>');
-    ul.append('<li class="list-inline-item"><i class="fa fa-code-fork" aria-hidden="true"></i> '+v.forks+'</li>');
+    ul.append('<li class="list-inline-item"><i class="far fa-star" aria-hidden="true"></i> '+stars+'</li>');
+    ul.append('<li class="list-inline-item"><i class="fas fa-code-branch" aria-hidden="true"></i> '+v.forks+'</li>');
     if (v.type.length > 0) {
-	ul.append('<li class="list-inline-item"><i class="fa fa-file-o" aria-hidden="true"></i> '+v.type+'</li>');
+	ul.append('<li class="list-inline-item"><i class="far fa-file-" aria-hidden="true"></i> '+v.type+'</li>');
     }
 }
 
