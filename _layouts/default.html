@@ -15,24 +15,13 @@
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css?0" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
     {{ content }}
-    <footer class="site-footer clearfix">
-        <div class="footer">
-            <center>
-                <ul class="list-inline">
-                    <li class="list-inline-item">&copy; 2019 Micro Services Inc.</li>
-                    <li class="list-inline-item"><a href="https://micro-services.slack.com"><i class="fa fa-slack"></i></a></li>
-                    <li class="list-inline-item"><a href="https://github.com/micro"><i class="fa fa-github"></i></a></li>
-                    <li class="list-inline-item"><a href="https://twitter.com/microhq"><i class="fa fa-twitter"></i></a></li>
-                    <li class="list-inline-item"><a href="mailto:hello@micro.mu"><i class="fa fa-envelope-o"></i></a></li>
-                </ul>
-            </center>
-        </div>
-    </footer>
+
+    {% include footer.html %}
 
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.fitvids.js"></script>
