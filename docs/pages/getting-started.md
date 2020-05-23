@@ -77,13 +77,13 @@ go.micro.server
 go.micro.web
 ```
 
-All those services are ones started by our `micro server`. This is pretty cool, but still it's not something we launched! Let's start a service for which existence we can actually take credit for. If we go to [github.com/micro/services](https://github.com/micro/services), we see a bunch of services written by micro authors. One of them is the `helloworld`. Try our luck, shall we?
+All those services are ones started by our `micro server`. This is pretty cool, but still it's not something we launched! Let's start a service for which existence we can actually take credit for. If we go to [github.com/micro](https://github.com/micro), we see a bunch of services written by micro authors. One of them is the `helloworld`. Try our luck, shall we?
 
 The command to run services is `micro run`. This command may take a while as it checks out
 the repository from GitHub. (@todo this actually fails currently, fix)
 
 ```
-micro run github.com/micro/services/helloworld
+micro run github.com/micro/helloworld
 ```
 
 
@@ -127,7 +127,7 @@ That worked! If we wonder what endpoints a service has we can run the following 
 micro get service go.micro.service.helloworld
 ```
 
-Otherwise the best place to look is at the [proto definition](https://github.com/micro/services/blob/master/helloworld/proto/helloworld/helloworld.proto). You can also browse to the UI at [http://localhost:8082](http://localhost:8082/service/go.micro.service.helloworld) to see live info.
+Otherwise the best place to look is at the [proto definition](https://github.com/micro/blob/master/helloworld/proto/helloworld/helloworld.proto). You can also browse to the UI at [http://localhost:8082](http://localhost:8082/service/go.micro.service.helloworld) to see live info.
 
 ### Calling a service with Go Micro
 
@@ -144,7 +144,7 @@ import (
 	"fmt"
 
 	"github.com/micro/go-micro/v2"
-	proto "github.com/micro/services/helloworld/proto"
+	proto "github.com/micro/helloworld/proto"
 )
 
 func main() {

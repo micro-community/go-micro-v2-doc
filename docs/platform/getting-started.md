@@ -31,9 +31,9 @@ micro login --token $token
 If the login was successful, you will see the following message: `You have been logged in`.
 
 ## Writing your first service
-As noted above, whilst M30 is in closed beta, the only services which can be deployed must be located within the github.com/micro/services repo. Let's close this repo, using the no checkout flag to speed up the process.
+As noted above, whilst M30 is in closed beta, the only services which can be deployed must be located within the github.com/micro repo. Let's close this repo, using the no checkout flag to speed up the process.
 ```
-git clone https://github.com/micro/services && cd services
+git clone https://github.com/micro && cd services
 ```
 
 Next, let's create out first service (use your own first name for fun!) 
@@ -60,7 +60,7 @@ micro ps --platform
 You'll now see a list of the services, including:
 ```
 NAME		VERSION	SOURCE				STATUS		BUILD	METADATA
-foobar		latest	github.com/micro/services	running		n/a	owner=n/a,group=n/a
+foobar		latest	github.com/micro	running		n/a	owner=n/a,group=n/a
 ```
 
 ## Interacting with your first service
