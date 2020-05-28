@@ -9,7 +9,7 @@ summary: M3O is a serverless microservices platform
 
 ## Getting Access
 
-While we're in a closed beta, you must be invited to use the platform. Please join the [waitlist](https://micro.mu/signup) and ping us on [slack](https://slack.micro.mu) 
+While we're in a closed beta, you must be invited to use the platform. Please join the [waitlist](https://micro.muhttps://m3o.com) and ping us on [slack](https://slack.micro.mu) 
 in the #platform channel to get pushed to the top of the list.
 
 ## Setup

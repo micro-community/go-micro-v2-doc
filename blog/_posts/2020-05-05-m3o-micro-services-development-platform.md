@@ -70,7 +70,7 @@ For existing users who already have their own live setup, perhaps easy to config
 
 ## What next?
 
-We invite the reader to [signup](https://micro.mu/signup) to the beta which we'll be providing access to in the coming weeks. We'll have a community tier for open source software so M3O will be easy to test drive without strings attached. If you're interested to learn more come join us on [slack](https://slack.micro.mu) in the #platform channel.
+We invite the reader to [signup](https://m3o.com) to the beta which we'll be providing access to in the coming weeks. We'll have a community tier for open source software so M3O will be easy to test drive without strings attached. If you're interested to learn more come join us on [slack](https://slack.micro.mu) in the #platform channel.
 
 Thanks for reading.
 
