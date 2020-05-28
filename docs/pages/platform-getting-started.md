@@ -3,7 +3,7 @@ title: Get Started
 keywords: platform, M3O
 tags: [platform, M3O]
 sidebar: home_sidebar
-permalink: "/platform/getting-started.html"
+permalink: "/docs/platform-getting-started.html"
 summary: M3O is a serverless microservices platform
 ---
 
