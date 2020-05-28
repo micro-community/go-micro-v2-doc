@@ -141,11 +141,11 @@ entries:
       output: web, pdf
 
     - title: Get Started
-      url: /docs/platform/docs/getting-started.html
+      url: /docs/platform-getting-started.html
       output: web, pdf
 
     - title: Services
-      url: /docs/platform/docs/services.html
+      url: /docs/platform-services.html
       output: web, pdf
 
   - title: Runtime

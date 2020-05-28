@@ -3,7 +3,7 @@ title: Services
 keywords: platform, M3O, services
 tags: [platform, M3O, services]
 sidebar: home_sidebar
-permalink: "/platform/services.html"
+permalink: "/docs/platform-services.html"
 summary: Services offered by the M3O platform
 ---
 
