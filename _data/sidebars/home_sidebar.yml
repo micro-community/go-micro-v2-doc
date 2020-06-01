@@ -132,22 +132,6 @@ entries:
       url: /docs/writing-a-go-service.html
       output: web, pdf
 
-  - title: Platform
-    output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: /docs/platform.html
-      output: web, pdf
-
-    - title: Get Started
-      url: /docs/platform-getting-started.html
-      output: web, pdf
-
-    - title: Services
-      url: /docs/platform-services.html
-      output: web, pdf
-
   - title: Runtime
     output: web, pdf
     folderitems:
@@ -198,14 +182,6 @@ entries:
 
     - title: Run Service
       url: /docs/run-service.html
-      output: web, pdf
-
-  - title: Network
-    output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: /docs/network.html
       output: web, pdf
 
   - title: Plugins
