@@ -17,7 +17,7 @@ the founder of [Apcera](https://www.apcera.com/). It originated within VMWare an
 It's long since been rewritten in Go and is steadily gaining adoption amongst those looking for a highly scalable and 
 performant messaging system.
 
-If you want to learn more about NATS itself, visit [nats.io](http://nats.io/) or join the community [here](http://nats.io/community/).
+If you want to learn more about NATS itself, visit [nats.io](http://nats.io/) or join the community [here](http://nats.iohttps://slack.micro.mu).
 
 ### Why NATS?
 
