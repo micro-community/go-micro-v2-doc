@@ -12,9 +12,9 @@ gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 future: true
 plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
-url:            'https://micro.mu/'
+url:            'https://m3o.com/'
 author:         'Asim Aslam'
-author_url:	'https://twitter.com/malsamisa'
+author_url:	'https://twitter.com/microhq'
 paginate_path: "/blog/page:num/"
 google_analytics: UA-70478210-1
 sidebars:
