@@ -54,7 +54,7 @@ this in a way that was true to go-micro itself. This led to the creation of [**m
 the microservice toolkit. Micro provides an api gateway, web dashboard, cli, slack bot, service proxy and much more.
 
 <center>
-<img src="https://m3o.com/blog/assets/images/runtime3.svg" style="width: 80%; height: auto;"/>
+<img src="https://m3o.com/assets/images/runtime3.svg" style="width: 80%; height: auto;"/>
 </center>
 
 The micro toolkit acted as interaction points via http api, browser, slack commands and command line interface. These 
