@@ -9,7 +9,7 @@ we built a strongly opinionated open source framework called [**Go Micro**](http
 [**Micro**](https://github.com/micro/micro), a microservice toolkit built to explore, query and 
 interact with those services via an API Gateway, CLI, Slack and Web Dashboard.
 
-<img src="https://micro.mu/docs/images/go-micro.svg" style="max-width: 100%; margin: 0;" />
+<img src="https://m3o.com/docs/images/go-micro.svg" style="max-width: 100%; margin: 0;" />
 
 ## Version 1.0.0
 
@@ -21,7 +21,7 @@ Micro enables teams to scale microservices development while abstracting away th
 It provides a pluggable and runtime agnostic architecture with sane zero dependency defaults.
 
 <center>
-<img src="https://micro.mu/micro-diag.svg" style="max-width: 100%; margin: 0;" />
+<img src="https://m3o.com/micro-diag.svg" style="max-width: 100%; margin: 0;" />
 </center>
 
 <br>
@@ -86,7 +86,7 @@ place for all things microservices.
 <center>...</center>
 <br>
 Micro is the simplest way to build microservices. If you're thinking about microservice development we want to help enable you on that journey. 
-To learn more check out the [website](https://micro.mu), follow us on [twitter](https://twitter.com/microhq) or 
+To learn more check out the [website](https://m3o.com), follow us on [twitter](https://twitter.com/microhq) or 
 join the [slack](https://micro-services.slack.com) community.
 
 <h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>

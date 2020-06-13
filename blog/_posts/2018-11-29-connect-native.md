@@ -44,7 +44,7 @@ of proxies. It's a great addition for micro users and we highly recommend using 
 
 <center>...</center>
 
-To learn more about micro check out the [website](https://micro.mu), follow us on [twitter](https://twitter.com/microhq) or 
+To learn more about micro check out the [website](https://m3o.com), follow us on [twitter](https://twitter.com/microhq) or 
 join the [slack](https://micro-services.slack.com) community.
 
 <h6><a href="https://github.com/micro/go-proxy"><i class="fab fa-github fa-2x"></i> Go Proxy</a></h6>

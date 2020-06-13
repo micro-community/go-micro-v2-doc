@@ -368,7 +368,7 @@ We're doing just that in the Micro ecosystem by including a bot as part of the [
 It's still early days but looking very promising thus far.
 
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
-[micro.mu](https://micro.mu) or the github [repo](https://github.com/micro/micro).
+[micro.mu](https://m3o.com) or the github [repo](https://github.com/micro/micro).
 
 Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://micro-services.slack.com) 
 community [here](http://slack.micro.mu).

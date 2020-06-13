@@ -100,7 +100,7 @@ Expect a follow up blog post detailing the toolkit soon.
 
 When you hear the word microservices we want you to think, Micro - the microservices ecosystem. <br/>
 
-If you want to learn more about the services we offer or microservices, checkout the website [micro.mu](https://micro.mu) or 
+If you want to learn more about the services we offer or microservices, checkout the website [micro.mu](https://m3o.com) or 
 the github [repo](https://github.com/micro/micro).
 
 Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://micro-services.slack.com) 

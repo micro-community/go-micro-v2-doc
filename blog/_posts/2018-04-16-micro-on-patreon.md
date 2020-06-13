@@ -108,7 +108,7 @@ This would enable a self-sustaining future for micro while allowing it to fund i
 Reach out to discuss or learn more.
 
 <center><p>...</p></center>
-If you want to learn more about micro, checkout the [website](https://micro.mu) or 
+If you want to learn more about micro, checkout the [website](https://m3o.com) or 
 visit [GitHub](https://github.com/micro/micro).
 
 Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](http://slack.micro.mu) community.
