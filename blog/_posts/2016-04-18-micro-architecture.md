@@ -301,6 +301,6 @@ The future of software development with a tool such as Micro is very exciting.
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
 [micro.mu](https://m3o.com) or the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://micro-services.slack.com) 
+Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) 
 community [here](http://slack.micro.mu).
 
