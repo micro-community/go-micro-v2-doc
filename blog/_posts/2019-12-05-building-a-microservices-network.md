@@ -257,7 +257,7 @@ At its core, the flap detection assigns a numerical cost to every route event. W
 The picture below depicts how the decaying actually works.
 
 <center>
-<img src="https://micro.mu/blog/assets/images/flap-detection.png" style="width: 80%; height: auto;" />
+<img src="https://micro.mu/assets/images/flap-detection.png" style="width: 80%; height: auto;" />
 </center>
 
 <small>source: http://linuxczar.net/blog/2016/01/31/flap-detection/</small>
@@ -288,7 +288,7 @@ This holds true for all the individual components that make up the network. If y
 On 29th August 2019 around 4PM we sent the first successful RPC request between our laptops across the internet using the micro network.
 
 <center>
-  <img src="https://micro.mu/blog/assets/images/success.jpg" style="width: 80%; height: auto;" />
+  <img src="https://micro.mu/assets/images/success.jpg" style="width: 80%; height: auto;" />
 </center>
 <br>
 
@@ -296,7 +296,7 @@ Since then we have squashed a lot of bugs and deployed the network nodes across 
 At the moment we are running the micro network in 4 cloud providers across 4 geographical regions with 3 nodes in each region.
 
 <center>
-  <img src="https://micro.mu/blog/assets/images/radar.png" style="width: 80%; height: auto;" />
+  <img src="https://micro.mu/assets/images/radar.png" style="width: 80%; height: auto;" />
 </center>
 
 ## Usage
