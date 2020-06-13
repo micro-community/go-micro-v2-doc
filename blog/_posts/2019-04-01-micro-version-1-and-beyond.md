@@ -89,4 +89,4 @@ Micro is the simplest way to build microservices. If you're thinking about micro
 To learn more check out the [website](https://micro.mu), follow us on [twitter](https://twitter.com/microhq) or 
 join the [slack](https://micro-services.slack.com) community.
 
-<h6><a href="https://github.com/micro/micro"><i class="fa fa-github fa-2x"></i> Micro</a></h6>
+<h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>

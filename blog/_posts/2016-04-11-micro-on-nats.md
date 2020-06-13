@@ -126,7 +126,7 @@ type Transport interface {
 }
 ```
 
-<a href="https://github.com/micro/go-plugins/tree/master/transport/nats"><i class="fa fa-github fa-2x"></i> Transport</a>
+<a href="https://github.com/micro/go-plugins/tree/master/transport/nats"><i class="fab fa-github fa-2x"></i> Transport</a>
 
 ###### Broker
 
@@ -180,7 +180,7 @@ type Broker interface {
     String() string
 }
 ```
-<a href="https://github.com/micro/go-plugins/tree/master/broker/nats"><i class="fa fa-github fa-2x"></i> Broker</a>
+<a href="https://github.com/micro/go-plugins/tree/master/broker/nats"><i class="fab fa-github fa-2x"></i> Broker</a>
 
 ###### Registry
 
@@ -257,7 +257,7 @@ type Registry interface {
 }
 ```
 
-<a href="https://github.com/micro/go-plugins/tree/master/registry/nats"><i class="fa fa-github fa-2x"></i> Registry</a>
+<a href="https://github.com/micro/go-plugins/tree/master/registry/nats"><i class="fab fa-github fa-2x"></i> Registry</a>
 
 ###### Scaling Micro on NATS
 
@@ -306,5 +306,5 @@ If you want to learn more about the services we offer or microservices, check ou
 Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://micro-services.slack.com) 
 community [here](http://slack.micro.mu).
 
-<h6><a href="https://github.com/micro/micro"><i class="fa fa-github fa-2x"></i> Micro</a></h6>
+<h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>
 

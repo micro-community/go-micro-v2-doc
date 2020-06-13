@@ -21,4 +21,4 @@ What is the end game for developers? Let us know your thoughts.
 To learn more check out the [website](https://micro.mu), follow us on [twitter](https://twitter.com/microhq) or 
 join the [slack](https://micro-services.slack.com) community.
 
-<h6><a href="https://github.com/micro/micro"><i class="fa fa-github fa-2x"></i> Micro</a></h6>
+<h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>
