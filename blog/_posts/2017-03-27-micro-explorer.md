@@ -4,10 +4,10 @@ title: Announcing The Micro Explorer
 date:   2017-03-27 09:00:00
 ---
 <br>
-Today I'm excited to announce the [Micro Explorer](https://micro.mu/explore/), a single place to find projects within the micro ecosystem.
+Today I'm excited to announce the [Micro Explorer](https://m3o.com/explore/), a single place to find projects within the micro ecosystem.
 
 <p align="center">
-  <a href="https://micro.mu/explore/"><img src="{{ site.baseurl }}/assets/images/explorer.png" /></a>
+  <a href="https://m3o.com/explore/"><img src="{{ site.baseurl }}/assets/images/explorer.png" /></a>
 </p>
 
 ### What is the Explorer?
@@ -35,7 +35,7 @@ be immensely useful.
 As the community grows we hope to see more contributed back and made easily accessible through the Micro Explorer.
 
 <center><p>...</p></center>
-If you want to learn more about the services we offer or microservices, checkout the [website](https://micro.mu) or 
+If you want to learn more about the services we offer or microservices, checkout the [website](https://m3o.com) or 
 visit [GitHub](https://github.com/micro/micro).
 
 Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](http://slack.micro.mu) community.

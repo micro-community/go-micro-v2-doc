@@ -237,10 +237,10 @@ Happy new year!
 - [Why Companies Adopt Microservices and How They Succeed](https://medium.com/@asimaslam/why-companies-adopt-microservices-and-how-they-succeed-2ad32f39c65a)
 - [Simplifying Microservices with Micro](https://www.youtube.com/watch?v=xspaDovwk34) [Video]  [Golang UK Conf 2016]
 
-If you want to learn more about the services we offer or microservices, checkout the website [micro.mu](https://micro.mu) or 
+If you want to learn more about the services we offer or microservices, checkout the website [micro.mu](https://m3o.com) or 
 the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://micro-services.slack.com) 
+Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) 
 community [here](http://slack.micro.mu).
 
 
