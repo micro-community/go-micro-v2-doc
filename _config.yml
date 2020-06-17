@@ -30,6 +30,7 @@ defaults:
       sidebar: home_sidebar
       lang: en
 
+repository: micro-community/website
 output: web
 topnav_title: Micro-Community
 site_title: Micro-Community
