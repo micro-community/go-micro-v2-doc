@@ -12,9 +12,9 @@ gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 future: true
 plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
-url:            'https://m3o.com/'
-author:         'Asim Aslam'
-author_url:	'https://twitter.com/microhq'
+url:            'https://micro-community.github.io/website/'
+author:         'micro-community'
+author_url:	'https://github.com/micro-community'
 paginate_path: "/blog/page:num/"
 google_analytics: UA-70478210-1
 sidebars:
@@ -32,7 +32,7 @@ defaults:
       lang: en
 
 output: web
-topnav_title: Micro
-site_title: Micro
+topnav_title: Micro-Community
+site_title: Micro-Community
 baseurl: ""
 exclude: [main.go]
