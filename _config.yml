@@ -34,5 +34,5 @@ defaults:
 output: web
 topnav_title: Micro-Community
 site_title: Micro-Community
-baseurl: ""
+baseurl: "https://micro-community.github.io/website"
 exclude: [main.go]
