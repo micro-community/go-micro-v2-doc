@@ -1,3 +1,3 @@
 # website
 
-The micro-community website
+micro-community website
