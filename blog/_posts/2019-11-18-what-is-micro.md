@@ -84,10 +84,10 @@ I went to Hacker News once more, only this time, things went a bit differently
 [https://news.ycombinator.com/item?id=11327679](https://news.ycombinator.com/item?id=11327679).
 
 Hacker News responded positively and Micro shot to the top of the front page. Here's the original blog post 
-for those interested in reading it [https://m3o.com/blog/2016/03/20/micro.html](https://m3o.com/blog/2016/03/20/micro.html).
+for those interested in reading it [https://micro-community.github.io/website/blog/2016/03/20/micro.html](https://micro-community.github.io/website/blog/2016/03/20/micro.html).
 
 <center>
-<a href="https://m3o.com/blog/2016/03/20/micro.html">
+<a href="https://micro-community.github.io/website/blog/2016/03/20/micro.html">
   <img src="{{ site.baseurl }}/assets/images/micro-post.png" style="height: auto; width: 80%; margin: 0" />
 </a>
 </center>
@@ -244,7 +244,7 @@ in which we could collaborate on services, reusing each others running applicati
 on solving higher order problems.
 
 It would have it's own quirks and challenges but the opportunities such a platform presents is immense. And something 
-we want to explore at [Micro](https://m3o.com), the company.
+we want to explore at [Micro](https://micro-community.github.io/website), the company.
 
 So that's what we're setting out to do really. To build a global shared services platform for developers by developers. 
 Where the pains of cloud, kubernetes and everything else will no longer be felt. An environment 
@@ -255,7 +255,7 @@ in which we can build, share and collaborate on micro services based on the [**g
 The future of Micro is one which involves rapidly reducing the friction for developers in harnessing the power of 
 the cloud and to empower them to build microservices from anywhere, with anyone.
 
-If this sounds interesting to you, come join our community on [**slack**](https://m3o.com/slack), kick the tyres 
+If this sounds interesting to you, come join our community on [**slack**](https://micro-community.github.io/website/slack), kick the tyres 
 on the [**go-micro**](https://github.com/micro/go-micro) framework or come help us make it a reality. We're hiring, 
 just drop us an email at <a href="mailto:hello@micro.mu"><b>hello@micro.mu</b></a>.
 
@@ -263,4 +263,4 @@ Cheers
 <br>
 Asim
 
-<h6><a href="https://m3o.com">Micro</a></h6>
+<h6><a href="https://micro-community.github.io/website">Micro</a></h6>

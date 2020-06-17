@@ -24,7 +24,7 @@ we've had numerous requests to solve the next day problems for building producti
 Much of this has been related to scalability, security, synchronisation and configuration.
 
 <center>
-<img src="https://m3o.com/docs/images/go-micro.svg" style="width: 80%; height: auto;"/>
+<img src="https://micro-community.github.io/website/docs/images/go-micro.svg" style="width: 80%; height: auto;"/>
 </center>
 
 While there would have been merit to add the additional features requested we really wanted to stay very focused 
@@ -34,11 +34,11 @@ on solving one problem really well at first. So we took a different approach to 
 
 Going to production involves much more than vanilla service discovery, message encoding and request-response. 
 We really understood this but wanted to enable users to choose the wider platform requirements via pluggable and 
-extensible interfaces. Promoting an ecosystem through an [explorer](https://m3o.com/explore/) which aggregates 
+extensible interfaces. Promoting an ecosystem through an [explorer](https://micro-community.github.io/website/explore/) which aggregates 
 micro based open source projects on GitHub along with extensible plugins via the [go-plugins](https://github.com/micro/go-plugins) repo.
 
 <center>
-<img src="https://m3o.com/explorer.png" style="width: 80%; height: auto;" />
+<img src="https://micro-community.github.io/website/explorer.png" style="width: 80%; height: auto;" />
 </center>
 
 Go Plugins has generally been a great success by allowing developers to offload significant complexity to systems built 
@@ -54,7 +54,7 @@ this in a way that was true to go-micro itself. This led to the creation of [**m
 the microservice toolkit. Micro provides an api gateway, web dashboard, cli, slack bot, service proxy and much more.
 
 <center>
-<img src="https://m3o.com/assets/images/runtime3.svg" style="width: 80%; height: auto;"/>
+<img src="https://micro-community.github.io/website/assets/images/runtime3.svg" style="width: 80%; height: auto;"/>
 </center>
 
 The micro toolkit acted as interaction points via http api, browser, slack commands and command line interface. These 
@@ -108,7 +108,7 @@ the cloud. We're making that process even simpler by consolidating our efforts i
 
 <center>...</center>
 <br>
-To learn more check out the [website](https://m3o.com), follow us on [twitter](https://twitter.com/microhq) or 
+To learn more check out the [website](https://micro-community.github.io/website), follow us on [twitter](https://twitter.com/microhq) or 
 join the [slack](https://slack.micro.mu) community.
 
 <h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>

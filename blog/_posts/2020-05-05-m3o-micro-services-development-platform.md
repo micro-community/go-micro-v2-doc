@@ -33,7 +33,7 @@ There were some times over the past few years where we thought technologies like
 
 ## A platform for Micro services development
 
-Micro started life as a Go framework for microservices development. To solve the problem of distributed systems development with a developer first focus. It took the approach of solving this problem in the smallest way possible. Now though, we find ourselves evolving and moving on to becoming both a [Runtime](https://m3o.com/blog/2020/05/04/introducing-micro-server.html) and a Platform.
+Micro started life as a Go framework for microservices development. To solve the problem of distributed systems development with a developer first focus. It took the approach of solving this problem in the smallest way possible. Now though, we find ourselves evolving and moving on to becoming both a [Runtime](https://micro-community.github.io/website/blog/2020/05/04/introducing-micro-server.html) and a Platform.
 
 M3O is a platform for Micro services development. A fully managed cloud platform which eliminates the need for developers to touch infrastructure and lets them get back to focusing on product and service development. The best kept secret of every successful technology company is now being opened to the world to use as a simply priced hosted platform.
 
@@ -70,7 +70,7 @@ For existing users who already have their own live setup, perhaps easy to config
 
 ## What next?
 
-We invite the reader to [signup](https://m3o.com) to the beta which we'll be providing access to in the coming weeks. We'll have a community tier for open source software so M3O will be easy to test drive without strings attached. If you're interested to learn more come join us on [slack](https://slack.micro.mu) in the #platform channel.
+We invite the reader to [signup](https://micro-community.github.io/website) to the beta which we'll be providing access to in the coming weeks. We'll have a community tier for open source software so M3O will be easy to test drive without strings attached. If you're interested to learn more come join us on [slack](https://slack.micro.mu) in the #platform channel.
 
 Thanks for reading.
 

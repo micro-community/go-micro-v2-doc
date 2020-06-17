@@ -85,7 +85,7 @@ description: "Documentation for Micro the microservice toolkit"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://micro.mu/docs
+url: https://micro-community.github.io/website/docs
 
 google_analytics: UA-70478210-1
 

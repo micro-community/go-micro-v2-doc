@@ -1,13 +1,12 @@
 name: Micro-Community
 company_name: Micro Community, Org.
-description: The simplest way to build, share and collaborate on microservices
-meta_description: "The fastest way to build, share and collaborate on services in the Cloud and beyond"
+description: The simplest and funny way to play with micro and micro service, crate and share around microservice
+meta_description: "The funny and simple way to learn, build, share and achieve with micro services in  Cloud Native and beyond"
 
 markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 future: true
 plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]

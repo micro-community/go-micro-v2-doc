@@ -10,11 +10,11 @@ In 2015, `go-micro`, a Go microservices framework was announced. Today we introd
 Whether you are running the `micro server` locally with zero dependencies (using memory or files), or on k8s (with highly available distributed systems and other third party tools), the `micro server` and the micro cli should provide a straightforward and runtime agnostic experience that is the same across any environment.
 
 
-For those who prefer action to words, the [getting started guide](https://m3o.com/docs/getting-started.html)! can give a taste of what the `micro server` is about or visit the project on [github](https://github.com/micro/micro).
+For those who prefer action to words, the [getting started guide](https://micro-community.github.io/website/docs/getting-started.html)! can give a taste of what the `micro server` is about or visit the project on [github](https://github.com/micro/micro).
 
 <br>
 <div style="text-align: center; width: 100%;">
-  <img src="https://m3o.com/images/runtime10.svg" />
+  <img src="https://micro-community.github.io/website/images/runtime10.svg" />
 </div>
 <br>
 
@@ -41,7 +41,7 @@ This is one of the many areas of modern microservices based workflows that Micro
 
 ## To end
 
-If you're interested in the future of cloud-native development, microservices and distributed systems come join us in the community. You can find us in our [Slack channel](https://slack.micro.mu) or on [Discourse](https://community.micro.mu/). We can help you if for any reason you get stuck with our [docs](https://m3o.com/docs) or the [getting started guide](https://m3o.com/docs/getting-started.html).
+If you're interested in the future of cloud-native development, microservices and distributed systems come join us in the community. You can find us in our [Slack channel](https://slack.micro.mu) or on [Discourse](https://community.micro.mu/). We can help you if for any reason you get stuck with our [docs](https://micro-community.github.io/website/docs) or the [getting started guide](https://micro-community.github.io/website/docs/getting-started.html).
 
 Also check out the project on [github](https://github.com/micro/micro) and give us a ⭐ if you like it.
 
