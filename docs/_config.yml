@@ -1,15 +1,15 @@
-repository: micro/docs
+repository: micro-community/website
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Micro
+topnav_title: Micro-Community
 # this appears on the top navigation bar next to the home button
 
-site_title: Micro
+site_title: Micro-Community
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Micro Services, Inc
+company_name: Micro Community, Org.
 # this appears in the footer
 
 github_editme_path: 
@@ -33,7 +33,7 @@ exclude:
   - README.md
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Micro
+feedback_subject_line: Micro-Community
 
 feedback_email: contact@micro.mu
 # used as a contact email for the Feedback link in the top navigation bar
