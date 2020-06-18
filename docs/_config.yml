@@ -87,6 +87,7 @@ description: "Documentation for Micro the microservice toolkit"
 # needed for sitemap.xml file only
 url: https://micro-community.github.io/website/docs
 
-google_analytics: UA-70478210-1
+# we have GFW in CN
+#google_analytics: UA-70478210-1
 
 baseurl: "/docs"
