@@ -76,8 +76,7 @@ Go Micro abstracts away the complexity of distributed systems and provides simpl
 
 - **Framework** - Start writing services using the [go-micro](framework.html) framework.
 - **Runtime** - Manage your services using the [micro](runtime.html) runtime.
-- **Platform** - Host and collaborate on your services on the [platform](platform.html).
 - **Examples** - Learn by example with real code [examples](https://github.com/micro/examples)
-- **Community** - Join the the community and start collaborating on [slack](https://slack.micro.mu)
+- **Community** - Join the community and start collaborating on [micro-community](https://github.com/micro-community/how-to-join)
 
 {% include docs/links.html %}
