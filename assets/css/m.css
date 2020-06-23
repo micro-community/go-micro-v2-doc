@@ -17,16 +17,16 @@
 	font-weight: bold;
     }
     .footer, .footer i, .footer a { color: #495057;}
-    .footer { border-top: 1px solid #eee; padding: 5px 0 5px 0; }
+    .footer { border-top: 1px solid #eee; padding: 100px 0 5px 0; }
     .footer ul { margin: 0; }
     .main {
       /* min-height: calc(100% - 120px); */
       /* min-height: calc(100vh - 120px); */
       max-width: 1220px;
       margin: 0 auto;
-      padding-top: 4%;
-      padding-bottom: 5%;
-      margin-top: 20px;
+      padding-top: 5%;
+      padding-bottom: 6%;
+      margin-top: 50px;
     }
     .tagline {
       padding-top: 35px;
