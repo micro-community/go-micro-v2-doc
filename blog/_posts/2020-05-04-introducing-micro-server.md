@@ -41,7 +41,7 @@ This is one of the many areas of modern microservices based workflows that Micro
 
 ## To end
 
-If you're interested in the future of cloud-native development, microservices and distributed systems come join us in the community. You can find us in our [Slack channel](https://slack.micro.mu) or on [Discourse](https://community.micro.mu/). We can help you if for any reason you get stuck with our [docs](https://m3o.com/docs) or the [getting started guide](https://m3o.com/docs/getting-started.html).
+If you're interested in the future of cloud-native development, microservices and distributed systems come join us in the community. You can find us in our [Slack channel](https://slack.m3o.com) or on [Discourse](https://community.micro.mu/). We can help you if for any reason you get stuck with our [docs](https://m3o.com/docs) or the [getting started guide](https://m3o.com/docs/getting-started.html).
 
 Also check out the project on [github](https://github.com/micro/micro) and give us a ⭐ if you like it.
 

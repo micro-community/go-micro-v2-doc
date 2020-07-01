@@ -17,7 +17,7 @@ the founder of [Apcera](https://www.apcera.com/). It originated within VMWare an
 It's long since been rewritten in Go and is steadily gaining adoption amongst those looking for a highly scalable and 
 performant messaging system.
 
-If you want to learn more about NATS itself, visit [nats.io](http://nats.io/) or join the community [here](http://nats.iohttps://slack.micro.mu).
+If you want to learn more about NATS itself, visit [nats.io](http://nats.io/) or join the community [here](http://nats.iohttps://slack.m3o.com).
 
 ###### Why NATS?
 
@@ -303,8 +303,8 @@ Find the source for the NATS plugins at [github.com/micro/go-plugins](https://gi
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
 [micro.mu](https://m3o.com) or the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) 
-community [here](http://slack.micro.mu).
+Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) 
+community [here](http://slack.m3o.com).
 
 <h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>
 

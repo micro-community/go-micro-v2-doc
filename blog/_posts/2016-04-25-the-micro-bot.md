@@ -47,7 +47,7 @@ Hipchat. It's a rough version 1 but I'm a big believer in shipping as soon as so
 paced effort to improve the bot. Hopefully with community contributions!
 
 The Bot includes all the CLI commands and Inputs for Slack and HipChat. Our community Bot currently runs in the [demo](http://web.micro.pm) 
-environment and is in the Micro Slack right now! Join us [here](http://slack.micro.mu) if you want to check it out.
+environment and is in the Micro Slack right now! Join us [here](http://slack.m3o.com) if you want to check it out.
 
 In the near term we'll look to add more Input plugins like IRC, XMPP and Commands that simplify managing micro services in a running 
 environment. If you have ideas for other Inputs or Commands or would like to submit a PR for something please do, contributions are 
@@ -370,6 +370,6 @@ It's still early days but looking very promising thus far.
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
 [micro.mu](https://m3o.com) or the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) 
-community [here](http://slack.micro.mu).
+Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) 
+community [here](http://slack.m3o.com).
 

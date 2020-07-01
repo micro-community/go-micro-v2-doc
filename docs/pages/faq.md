@@ -16,7 +16,7 @@ Micro empowers developers to build, share and collaborate on distributed systems
 - Micro is a [Framework](https://github.com/micro/go-micro)
 - Micro is a [Runtime](https://github.com/micro/micro)
 - Micro is a [Network](https://micro/docs/network.html)
-- Micro is a [Community](https://slack.micro.mu/)
+- Micro is a [Community](https://slack.m3o.com/)
 
 ### Open Source
 
@@ -39,7 +39,7 @@ Explore the [network](https://micro.mu/docs/network.html).
 
 There's a slack community with thousands of members. 
 
-Invite yourself at [micro.mu/slack/](https://slack.micro.mu/).
+Invite yourself at [micro.mu/slack/](https://slack.m3o.com/).
 
 ## Where do I start?
 
@@ -142,7 +142,7 @@ Use go-kit where you want complete control. Use go-micro where you want an opini
 
 ## Where Can I Learn More?
 
-- Join the slack community - [micro.mu/slack](https://slack.micro.mu)
+- Join the slack community - [micro.mu/slack](https://slack.m3o.com)
 - Read the blog - [micro.mu/blog](https://micro.mu/blog)
 
 {% include docs/links.html %}

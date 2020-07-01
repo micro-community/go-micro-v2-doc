@@ -477,7 +477,7 @@ distributed systems platforms.
 As you can gather from the blog post, most of these features are built into the Micro toolkit. You can go check out the project on 
 [GitHub](https://github.com/micro/micro) and get started writing fault tolerant Micro services almost instantly.
 
-If you need help or have questions, come join the community on [Slack](https://slack.micro.mu). It's very active and 
+If you need help or have questions, come join the community on [Slack](https://slack.m3o.com). It's very active and 
 growing fast, with a broad range of users, from people hacking on side projects to companies already using Micro in production today. 
 
 ### Summary
@@ -494,6 +494,6 @@ this blog post has helped demonstrate some of the ways we're looking to do just 
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
 [micro.mu](https://m3o.com) or the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) 
-community [here](http://slack.micro.mu).
+Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) 
+community [here](http://slack.m3o.com).
 
