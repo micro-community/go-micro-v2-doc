@@ -169,7 +169,7 @@ feedback.
 
 I want to thank the members of the community for believing in the project and taking the time to contribute back.
 
-Join us at [slack.micro.mu](http://slack.micro.mu/)
+Join us at [slack.m3o.com](http://slack.m3o.com/)
 
 With 2016 in the books, let's look to the future.
 
@@ -240,7 +240,7 @@ Happy new year!
 If you want to learn more about the services we offer or microservices, checkout the website [micro.mu](https://micro-community.github.io/website) or 
 the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) 
-community [here](http://slack.micro.mu).
+Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) 
+community [here](http://slack.m3o.com).
 
 

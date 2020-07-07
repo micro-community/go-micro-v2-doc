@@ -109,6 +109,6 @@ the cloud. We're making that process even simpler by consolidating our efforts i
 <center>...</center>
 <br>
 To learn more check out the [website](https://micro-community.github.io/website), follow us on [twitter](https://twitter.com/microhq) or 
-join the [slack](https://slack.micro.mu) community.
+join the [slack](https://slack.m3o.com) community.
 
 <h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>

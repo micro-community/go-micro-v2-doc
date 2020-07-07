@@ -38,6 +38,6 @@ As the community grows we hope to see more contributed back and made easily acce
 If you want to learn more about the services we offer or microservices, checkout the [website](https://micro-community.github.io/website) or 
 visit [GitHub](https://github.com/micro/micro).
 
-Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](http://slack.micro.mu) community.
+Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](http://slack.m3o.com) community.
 
 

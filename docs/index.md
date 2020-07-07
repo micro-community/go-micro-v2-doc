@@ -15,7 +15,7 @@ with the complexity of distributed systems and provides simpler programmable abs
 Technology is constantly evolving. The infrastructure stack is always changing. Micro is a platform which
 addresses these issues with a pluggable foundation and strongly defined apis to build on. Plug into any stack or cloud.
 
-Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](https://slack.micro.mu) community.
+Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) community.
 
 ## Features
 
@@ -76,6 +76,7 @@ Go Micro abstracts away the complexity of distributed systems and provides simpl
 
 - **Framework** - Start writing services using the [go-micro](framework.html) framework.
 - **Runtime** - Manage your services using the [micro](runtime.html) runtime.
+- **Platform** - Host and collaborate on your services on the [platform](platform.html).
 - **Examples** - Learn by example with real code [examples](https://github.com/micro/examples)
 - **Community** - Join the community and start collaborating on [micro-community](https://github.com/micro-community/how-to-join)
 
