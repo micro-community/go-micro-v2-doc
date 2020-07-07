@@ -6,7 +6,7 @@ meta_description: "The funny and simple way to learn, build, share and achieve w
 blog_name: Community-Blog
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
