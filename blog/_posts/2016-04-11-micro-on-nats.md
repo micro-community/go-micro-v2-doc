@@ -303,7 +303,7 @@ Find the source for the NATS plugins at [github.com/micro/go-plugins](https://gi
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
 [micro.mu](https://micro-community.github.io/website) or the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) 
+Follow us on Twitter at [@MicroHQ](https://twitter.com/m3ocloud) or join the [Slack](https://slack.m3o.com) 
 community [here](http://slack.m3o.com).
 
 <h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>

@@ -110,7 +110,7 @@ The micro blog has served as a place to explore the toolkit and microservices in
 The blog has largely been a success, a great way to clarify my own thinking on technical topics and the feedback mostly positive. One of the future 
 goals will be to introduce guest writers or topics of interest beyond microservices. 
 
-I also started a publication on [Medium](https://medium.com/microhq) which has helped increase readership.
+I also started a publication on [Medium](https://m3o.com/blog) which has helped increase readership.
 
 
 ###### Plugins
@@ -230,17 +230,17 @@ It's been a heck of a ride so far with a lot more to come in 2017. Stay tuned! A
 
 Happy new year!
 
-- [Micro - a microservice toolkit](https://medium.com/microhq/micro-a-microservices-toolkit-c403145b65c1)
-- [Micro on NATS - microservices with messaging](https://medium.com/microhq/micro-on-nats-microservices-with-messaging-2dcc248fb5b9)
-- [Micro architecture & design patterns for microservices](https://medium.com/microhq/micro-architecture-design-patterns-for-microservices-37f4b9049ad3)
-- [Building Resilient and Fault Tolerant Applications with Micro](https://medium.com/microhq/building-resilient-and-fault-tolerant-applications-with-micro-53b454a8e8eb)
+- [Micro - a microservice toolkit](https://m3o.com/blog/micro-a-microservices-toolkit-c403145b65c1)
+- [Micro on NATS - microservices with messaging](https://m3o.com/blog/micro-on-nats-microservices-with-messaging-2dcc248fb5b9)
+- [Micro architecture & design patterns for microservices](https://m3o.com/blog/micro-architecture-design-patterns-for-microservices-37f4b9049ad3)
+- [Building Resilient and Fault Tolerant Applications with Micro](https://m3o.com/blog/building-resilient-and-fault-tolerant-applications-with-micro-53b454a8e8eb)
 - [Why Companies Adopt Microservices and How They Succeed](https://medium.com/@asimaslam/why-companies-adopt-microservices-and-how-they-succeed-2ad32f39c65a)
 - [Simplifying Microservices with Micro](https://www.youtube.com/watch?v=xspaDovwk34) [Video]  [Golang UK Conf 2016]
 
 If you want to learn more about the services we offer or microservices, checkout the website [micro.mu](https://micro-community.github.io/website) or 
 the github [repo](https://github.com/micro/micro).
 
-Follow us on Twitter at [@MicroHQ](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) 
+Follow us on Twitter at [@MicroHQ](https://twitter.com/m3ocloud) or join the [Slack](https://slack.m3o.com) 
 community [here](http://slack.m3o.com).
 
 

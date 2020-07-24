@@ -86,6 +86,6 @@ Look to see more on integrating micro functions with existing systems and server
 If you want to learn more about the services we offer or microservices, checkout the [website](https://micro-community.github.io/website) or 
 visit [GitHub](https://github.com/micro/micro).
 
-Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](http://slack.m3o.com) community.
+Follow us on [Twitter](https://twitter.com/m3ocloud) or join the [Slack](http://slack.m3o.com) community.
 
 
