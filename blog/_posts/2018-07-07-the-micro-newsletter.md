@@ -25,5 +25,5 @@ we'll likely only send you content when there's something interesting to talk ab
 If you want to learn more about micro, checkout the [website](https://m3o.com) or 
 visit [GitHub](https://github.com/micro/micro).
 
-Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](http://slack.m3o.com) community.
+Follow us on [Twitter](https://twitter.com/m3ocloud) or join the [Slack](http://slack.m3o.com) community.
 

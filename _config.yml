@@ -13,7 +13,7 @@ plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
 url:            'https://m3o.com/'
 author:         'Asim Aslam'
-author_url:	'https://twitter.com/microhq'
+author_url:	'https://twitter.com/m3ocloud'
 paginate_path: "/blog/page:num/"
 google_analytics: UA-70478210-1
 sidebars:

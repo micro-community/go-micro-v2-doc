@@ -391,6 +391,6 @@ It works!
 Building distributed systems is difficult, but it turns out building the networks they communicate over is an equally, if not more difficult, problem. The classic fallacy, [the network is reliable](https://queue.acm.org/detail.cfm?id=2655736), continues to hold, as we found while building the micro network. However what’s also clear is that our world and most technology thrives through the use of networks. They underpin the very fabric of all that we’ve come to know. Our goal with the micro network is to create a new type of foundation for the open services of the future. Hopefully this post shed some light on the technical accomplishments and challenges of building such a thing.
 
 <br />
-To learn more check out the [website](https://m3o.com), follow us on [twitter](https://twitter.com/microhq) or 
+To learn more check out the [website](https://m3o.com), follow us on [twitter](https://twitter.com/m3ocloud) or 
 join the [slack](https://m3o.com/slack) community. We are hiring!
 
