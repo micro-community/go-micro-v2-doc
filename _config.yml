@@ -1,6 +1,6 @@
-name: Micro
+name: M3O
 company_name: Micro Services, Inc
-description: The simplest way to build, share and collaborate on microservices
+description: A cloud native development platform
 meta_description: "The fastest way to build, share and collaborate on services in the Cloud and beyond"
 
 markdown: kramdown
@@ -31,6 +31,6 @@ defaults:
       lang: en
 
 output: web
-topnav_title: Micro
-site_title: Micro
+topnav_title: M3O
+site_title: M3O
 exclude: [main.go]
