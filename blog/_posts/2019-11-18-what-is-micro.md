@@ -248,7 +248,7 @@ we want to explore at [Micro](https://micro-community.github.io/website), the co
 
 So that's what we're setting out to do really. To build a global shared services platform for developers by developers. 
 Where the pains of cloud, kubernetes and everything else will no longer be felt. An environment 
-in which we can build, share and collaborate on micro services based on the [**go-micro**](https://github.com/micro/go-micro) framework.
+in which we can build, share and collaborate on services based on the [**micro**](https://github.com/micro/micro) framework.
 
 # Closing
 
@@ -256,8 +256,8 @@ The future of Micro is one which involves rapidly reducing the friction for deve
 the cloud and to empower them to build microservices from anywhere, with anyone.
 
 If this sounds interesting to you, come join our community on [**slack**](https://micro-community.github.io/website/slack), kick the tyres 
-on the [**go-micro**](https://github.com/micro/go-micro) framework or come help us make it a reality. We're hiring, 
-just drop us an email at <a href="mailto:hello@micro.mu"><b>hello@micro.mu</b></a>.
+on the [**micro**](https://github.com/micro/micro) framework or come help us make it a reality. We hope 
+you found this useful. Please signup to the <a href="https://m3o.com">waitlist</a> if interested.
 
 Cheers
 <br>
