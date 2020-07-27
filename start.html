@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="About Micro" />
-    <title>Micro - About</title>
+    <meta name="description" content="Micro Getting Started page" />
+    <title>Micro - Getting Started</title>
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -39,11 +39,12 @@
       }
 
       .command {
-        padding: 0.5em;
-        background: #eee;
+        padding: 1em;
+        background: whitesmoke;
         border-radius: 0.5em;
         font-weight: 300;
         text-align: left;
+        margin: 0 0 25px 0;
       }
     </style>
   </head>
@@ -113,54 +114,49 @@
           <div>
 	    <h3><center></center></h3>
 
-            <h4 class="command"><b>go install github.com/micro/micro</b></h4>
             <p>
-              Install Micro to develop, deploy and debug locally and on the M3O platform.
+            	Install Micro to develop, deploy and debug locally and on the M3O platform.
+            	<pre class="command"><b>go install github.com/micro/micro</b></pre>
             </p>
 
-            <h4 class="command"><b>micro env set platform</b></h4>
             <p>
-	            This command makes the rest of your CLI commands run on the M3O platform.
+	        This command makes the rest of your CLI commands run on the M3O platform.
+            	<pre class="command"><b>micro env set platform</b></pre>
             </p>
 
-            <h4 class="command"><b>micro signup</b></h4>
             <p>
-              Signup is required before you can use M3O.
+            	Signup is required before you can use M3O.
+            	<pre class="command"><b>micro signup</b></pre>
             </p>
 
-            <h4 class="command"><b>micro login</b></h4>
             <p>
-              Login with the credentials provided during signup.
+            	Login with the credentials provided during signup.
+            	<pre class="command"><b>micro login</b></pre>
             </p>
 
-            <h4 class="command"><b>micro run github.com/micro/services/helloworld</b></h4>
             <p>
-              Deploy a Micro service from any folder hosted on Github.
+            	Deploy a Micro service from any folder hosted on Github.
+            	<pre class="command"><b>micro run github.com/micro/services/helloworld</b></pre>
             </p>
 
-            <h4 class="command"><b>micro status</b></h4>
             <p>
-              See if your services are running.
+            	See if your services are running.
+            	<pre class="command"><b>micro status</b></pre>
             </p>
 
-            <h4 class="command"><b>micro logs helloworld</b></h4>
             <p>
-              See its logs.
+            	See its logs.
+            	<pre class="command"><b>micro logs helloworld</b></pre>
             </p>
 
-            <h4 class="command"><b>micro call helloworld Helloworld.Call '{"name":"Alice"}'</b></h4>
             <p>
-              Call it.
+            	Call it.
+            	<pre class="command"><b>micro call helloworld Helloworld.Call '{"name":"Alice"}'</b></pre>
             </p>
 
-            <h4 class="command"><b>micro update github.com/micro/services/helloworld</b></h4>
             <p>
-            Deploy new changes
-            </p>
-
-            <h4 class="command"><b>micro login</b></h4>
-            <p>
-              Log in with the credentials you provided during signup.
+            	Deploy new changes
+            	<pre class="command"><b>micro update github.com/micro/services/helloworld</b></pre>
             </p>
 
             For more information, please see <a href="https://m3o.dev/">https://m3o.dev</a>.
