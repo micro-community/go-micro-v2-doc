@@ -248,7 +248,7 @@ we want to explore at [Micro](https://m3o.com), the company.
 
 So that's what we're setting out to do really. To build a global shared services platform for developers by developers. 
 Where the pains of cloud, kubernetes and everything else will no longer be felt. An environment 
-in which we can build, share and collaborate on micro services based on the [**micro**](https://github.com/micro/micro) framework.
+in which we can build, share and collaborate on services based on the [**micro**](https://github.com/micro/micro) framework.
 
 # Closing
 
