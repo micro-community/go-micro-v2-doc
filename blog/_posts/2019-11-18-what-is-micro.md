@@ -255,12 +255,10 @@ in which we can build, share and collaborate on micro services based on the [**g
 The future of Micro is one which involves rapidly reducing the friction for developers in harnessing the power of 
 the cloud and to empower them to build microservices from anywhere, with anyone.
 
-If this sounds interesting to you, come join our community on [**slack**](https://m3o.com/slack), kick the tyres 
-on the [**go-micro**](https://github.com/micro/go-micro) framework or come help us make it a reality. We're hiring, 
-just drop us an email at <a href="mailto:hello@micro.mu"><b>hello@micro.mu</b></a>.
+If this sounds interesting to you, come join our community on [**slack**](https://slack.m3o.com), kick the tyres 
+on the [**micro**](https://github.com/micro/micro) framework or come help us make it a reality. We hope 
+you found this useful. Please signup to the <a href="https://m3o.com">waitlist</a> if interested.
 
 Cheers
 <br>
 Asim
-
-<h6><a href="https://m3o.com">Micro</a></h6>
