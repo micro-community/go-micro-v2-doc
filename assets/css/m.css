@@ -11,6 +11,21 @@
     }
     h2 { color: #0c2e47; }
     a { color: #3B94D9; }
+
+    button {
+      background-color: #85D4D8; /* Green */
+      border: none;
+      color: whitesmoke;
+      padding: 15px 32px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
     .navbar-brand > a:hover { text-decoration: none; }
     #about {
 	color: #0c2e47;
@@ -28,6 +43,16 @@
       padding-bottom: 5%;
       margin-top: 20px;
     }
+
+      .command {
+        padding: 1em;
+        background: #f6f8fa;
+        border-radius: 0.5em;
+        font-weight: 300;
+        text-align: left;
+        margin: 0 0 25px 0;
+      }
+
     .tagline {
       padding-top: 35px;
     }
