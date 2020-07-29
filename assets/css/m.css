@@ -26,6 +26,10 @@
       font-weight: bold;
     }
 
+    button:hover {
+      background-color: rgb(152, 230, 235);
+    }
+
     .navbar-brand > a:hover { text-decoration: none; }
     #about {
 	color: #0c2e47;
