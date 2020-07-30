@@ -1,14 +1,14 @@
 ---
 layout:	post
 author: Janos Dobronszki
-title:	"Announcing: M3O - A Micro services development platform"
-date:	2020-05-05 10:00:00
+title:	"Announcing: M3O - A cloud native platform built for developers"
+date:	2020-07-30 10:00:00
 ---
 
 <br>
-Today we're announcing M3O - a cloud native platform for Micro services development. A vastly simpler method of building distributed systems in the Cloud and beyond without having to manage the infrastructure. M3O (pronounced "em-3-oh" and derived from the word `M[icr]o`) is the culmination of many years of experience doing distributed systems development and today we want to shed more light on what we're working on.
+Today we're announcing M3O - a cloud native platform built for developers. M3O (pronounced "em-3-oh" and derived from the word `M[icr]o`) provides [Micro](https://github.com/micro/micro) as a Service so developers can focus on writing services rather than managing infrastructure. To learn more about Micro, check out our [previous](http://penguin.linux.test:4000/blog/2019/11/18/what-is-micro.html) blog post.
 
-Before we do, let's talk about how we got here and what developers have had to deal with over the past decade, as all attempts to focus on software development has been thwarted by the new era of Cloud computing.
+Let's talk about why we're building M3O and what problems it solves for developers.
 <br>
 
 ## Cloud native development is just too complex
@@ -31,7 +31,7 @@ We did not always want to get into the platform business. In fact we desperately
 
 There were some times over the past few years where we thought technologies like AWS lambda and Google Cloud functions would push serverless in a direction that would solve for all the developers problems but this was wishful thinking. What we came away with was the realisation that developers don't want to and shouldn't have to manage infrastructure. But functions was the wrong development model.
 
-## A platform for Micro services development
+## A Cloud native platform built for developers
 
 Micro started life as a Go framework for microservices development. To solve the problem of distributed systems development with a developer first focus. It took the approach of solving this problem in the smallest way possible. Now though, we find ourselves evolving and moving on to becoming both a [Runtime](https://m3o.com/blog/2020/05/04/introducing-micro-server.html) and a Platform.
 
@@ -39,18 +39,16 @@ M3O is a platform for Micro services development. A fully managed cloud platform
 
 Our goal is to focus on the following:
 
-- Developer productivity - enabling devs to just focus on building services
-- Collaboration and reuse - the platform is built for teams and sharing of services between them
-- Everything as a Service - all applications on the platform are built as Micro services
-- Velocity of development - we're building an environment that allows you to move at a blistering pace
+- **Developer productivity** - enabling devs to just focus on building services
+- **Collaboration and reuse** - the platform is built for teams and sharing of services between them
+- **Everything as a Service** - all applications on the platform are built as Micro services
+- **Velocity of development** - we're building an environment that allows you to move at a blistering pace
 
 Judging the industry by our primary focus on simplicity, developer productivity and happiness (concepts we believe to be very correlated), we see constant ebbs and flows. One stride towards a positive direction is cancelled out by the introduction and promotion of overly complex tools, or at least the promotion of overly complex tools to the wrong audience and for the wrong usecase.
 
 Naturally, with millions of us working in this industry, we can't and don't expect everything to go the way we envision - we just enthusiastically wish for it. Our industry is still very young, and we all work hard to make it and the world a better place. That being said, we hope our hard work and decades of collective experience with microservices will result in something that the users will love and put to productive use.
 
-## Who are we?
-
-We are a collective of engineers who have experienced the woes of cloud-native complexity, built platforms before the era of containers and fire fought battles with Kubernetes on multiple cloud providers. We are the every-man, the every-day engineer, who just so happens to now want to do something to combat the complexity that AWS, Google and others have introduced to the world.
+## Developer first focus
 
 Micro is and always was, an opinionated framework and ecosystem. Convention over configuration. Easy bootstrapping with zero dependencies locally. Filling in blanks as demands of scaling and resiliency comes up - by switching out implementations of interfaces with more sophisticated ones - that was always the Micro way.
 
@@ -60,7 +58,7 @@ We try to make it so when someone learns how to use Micro locally, deploying to 
 
 We make a promise to you. We will never ask you to run or touch Kubernetes. You have our word. Because we also know that pain.
 
-## What is M3O?
+## M3O in a nutshell
 
 The M3O platform initially will be providing [Micro](https://github.com/micro/micro) as a Service. A hosted offering of the open source project which will be billed on a monthly subscription basis. We'll build the platform so you can build the product. Rather than thinking about infrastructure management, we want you to focus on service development. You'll never have to touch infrastructure ever again.
 
@@ -70,7 +68,8 @@ For existing users who already have their own live setup, perhaps easy to config
 
 ## What next?
 
-We invite the reader to [signup](https://m3o.com) to the beta which we'll be providing access to in the coming weeks. We'll have a community tier for open source software so M3O will be easy to test drive without strings attached. If you're interested to learn more come join us on [slack](https://slack.m3o.com) in the #platform channel.
+We're releasing an alpha version really soon! Head to the [website](https://m3o.com) and join the waitlist. We'll reach out and let you know how to get 
+started. If you want to learn more come join us on [slack](https://slack.m3o.com) or [discord](https://discord.gg/hbmJEct).
 
 Thanks for reading.
 
