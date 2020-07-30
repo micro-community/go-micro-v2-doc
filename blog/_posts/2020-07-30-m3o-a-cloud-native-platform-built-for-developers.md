@@ -5,7 +5,7 @@ title:	"Announcing: M3O - A cloud native platform built for developers"
 date:	2020-07-30 10:00:00
 ---
 <br>
-Today we're announcing M3O - a cloud native platform built for developers. M3O (pronounced "em-3-oh" and derived from the word `M[icr]o`) provides [Micro](https://github.com/micro/micro) as a Service so developers can focus on writing services rather than managing infrastructure. To learn more about Micro, check out our [previous](http://penguin.linux.test:4000/blog/2019/11/18/what-is-micro.html) blog post.
+Today we're announcing M3O - a cloud native platform built for developers. M3O (pronounced "em-3-oh" and derived from the word `M[icr]o`) provides [Micro](https://github.com/micro/micro) as a Service so developers can focus on writing services rather than managing infrastructure. To learn more about Micro, check out our [previous](/blog/2019/11/18/what-is-micro.html) blog post.
 
 Now let's talk about why we're building M3O and what problems it solves for developers.
 <br>
@@ -41,7 +41,6 @@ Our goal is to focus on the following:
 - **Developer productivity** - enabling devs to just focus on building services
 - **Collaboration and reuse** - the platform is built for teams and sharing of services between them
 - **Everything as a Service** - all applications on the platform are built as Micro services
-- **Velocity of development** - we're building an environment that allows you to move at a blistering pace
 
 Judging the industry by our primary focus on simplicity, developer productivity and happiness (concepts we believe to be very correlated), we see constant ebbs and flows. One stride towards a positive direction is cancelled out by the introduction and promotion of overly complex tools, or at least the promotion of overly complex tools to the wrong audience and for the wrong usecase.
 
