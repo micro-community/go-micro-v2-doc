@@ -5,7 +5,7 @@ title:	"Announcing: M3O - A cloud native platform built for developers"
 date:	2020-07-30 10:00:00
 ---
 <br>
-Today we're announcing M3O - a cloud native platform built for developers. M3O (pronounced "em-3-oh" and derived from the word `M[icr]o`) provides [Micro](https://github.com/micro/micro) as a Service so developers can focus on writing services rather than managing infrastructure. To learn more about Micro, check out our [previous](http://penguin.linux.test:4000/blog/2019/11/18/what-is-micro.html) blog post.
+Today we're announcing M3O - a cloud native platform built for developers. M3O (pronounced "em-3-oh" and derived from the word `M[icr]o`) provides [Micro](https://github.com/micro/micro) as a Service so developers can focus on writing services rather than managing infrastructure. To learn more about Micro, check out our [previous](/blog/2019/11/18/what-is-micro.html) blog post.
 
 Now let's talk about why we're building M3O and what problems it solves for developers.
 <br>
