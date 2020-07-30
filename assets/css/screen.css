@@ -1306,7 +1306,6 @@ body:not(.post-template) .post-title {
 .site-footer a {
     color: #BBC7CC;
     text-decoration: none;
-    font-weight: bold;
 }
 
 .site-footer a:hover {

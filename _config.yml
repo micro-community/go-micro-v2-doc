@@ -15,7 +15,9 @@ plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
 url:            'https://micro-community.github.io/website/'
 author:         'micro-community'
-author_url:	'https://github.com/micro-community'
+author_url:	'https://github.com/crazybber'
+twitter_url:	'https://twitter.com/m3oservices'
+mailto: 'crazybber@outlook.com'
 paginate_path: "/blog/page:num/"
 #CN have GFW
 #google_analytics: UA-70478210-1
