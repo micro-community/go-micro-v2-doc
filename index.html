@@ -34,40 +34,7 @@
 </head>
 
 <body>
-  <div class="container-fluid">
-    <div class="row title">
-      <div class="col-md-10 offset-md-1">
-        <nav class="navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand logo text" href="/"><img src="/logo.png" height="50px" width="auto">Community</a>
-          <span>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#micro-nav"
-              aria-controls="micro-nav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-          </span>
-          <div class="collapse navbar-collapse" id="micro-nav" style="margin-top:10px;">
-            <ul class="navbar-nav ml-auto">
-              <li role="separator" class="divider">
-                <hr />
-              </li>
-              <li class="nav-item"><a href="https://micro-community.github.io/development/getting-started"
-                  class="nav-link">Getting-started</a></li>
-              <li class="nav-item"><a href="https://micro-community.github.io/development" class="nav-link">Docs</a>
-              </li>
-              <li class="nav-item"><a href="/blog" class="nav-link">Blog</a></li>
-              <li class="nav-item"><a href="https://github.com/micro-community" target="blank"
-                  class="nav-link">Github</a></li>
-              <li class="nav-item"><a href="https://gitee.com/micro-community" target="blank" class="nav-link">Gitee</a>
-              </li>
-              <li class="nav-item"><a href="https://microhq.cn/" class="nav-link">Website-CN</a></li>
-              <li class="nav-item"><a href="/about.html" class="nav-link">About</a></li>
-              <!-- <li class="nav-item"><a href="https://github.com/sponsors/micro-community" class="nav-link">Sponsors</a></li> -->
-            </ul>
-          </div>
-        </nav>
-      </div>
-    </div>
-  </div>
+    {% include header.html %}
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-10 offset-md-1 main">
@@ -77,15 +44,23 @@
               native micro community for developers</h2>
             <p>
               Micro-Community is a self-organized developer community created by microservice fans around
-              micro„ÄÅgo-micro and beyond.
+              micro°¢go-micro and beyond.
+
             </p>
             <p>
-              Micro is a cloud native development platform. A fully managed service which enables
-              developers
-              to focus on building products rather than managing infrastructure.
+                Teams and individuals should feel empowered to build software at
+                an accelerated pace without friction or limitations, to create
+                the future of technology we all want and need.
+
             </p>
             <p>
-              Go-Micro is a cloud native development framework for large and scalable distributed systems.
+			    Micro is a cloud native development platform. A fully managed
+                service which enables developers to focus on building products
+                rather than managing infrastructure.
+				
+                Micro is redefining the way we build software by focusing
+                entirely on the needs of developers and providing an environment
+                in which we can realise the true potential of the cloud.
             </p>
             <p>Micro target to power developer in ability and efficiency.</p>
           </div>
@@ -146,36 +121,14 @@
 
         <!--End mc_embed_signup-->
       </div>
-      <div class="col-md-3" style="text-align: center;">
-        <ul class="list-inline" style="margin-top: 30px;">
-          <li class="list-inline-item"><a href="https://discord.gg/hbmJEct"><i class="fab fa-discord"></i></a>
-          </li>
-          <li class="list-inline-item"><a href="https://slack.micro.mu"><i class="fab fa-slack"></i></a></li>
-          <li class="list-inline-item"><a href="https://github.com/micro-community"><i class="fab fa-github"></i></a>
-          </li>
-          <li class="list-inline-item"><a href="https://www.linkedin.com/company/micro-services-inc"><i
-                class="fab fa-linkedin"></i></a></li>
-          <li class="list-inline-item"><a href="https://microhq.cn"><i class="fab fa-html5"></i></a></li>
-          <li class="list-inline-item"><a href="https://github.com/micro-in-cn/questions"><i
-                class="far fa-envelope"></i></a></li>
-        </ul>
-        <br>
-        <p>&copy; 2020 Micro Community, Org</p>
+      <div class="col-md-3">
+          <style>.footer .footer {border-top: 0; padding: 25px;};</style>
+          {% include footer.html %}
       </div>
     </div>
   </div>
-  <script src="https://unpkg.com/jquery@3.5.1/dist/jquery.min.js"></script>
-  <script src="https://unpkg.com/popper.js@1.14.3/dist/umd/popper.min.js"></script>
-  <script src="https://unpkg.com/bootstrap@4.1.3/dist/js/bootstrap.min.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-70478210-4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-    gtag("config", "UA-70478210-4");
-  </script>
+    {% include script.html %}
+
 </body>
 
 </html>
