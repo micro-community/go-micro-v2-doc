@@ -16,7 +16,7 @@ plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 url:            'https://micro-community.github.io/website/'
 author:         'micro-community'
 author_url:	'https://github.com/crazybber'
-twitter_url:	'https://twitter.com/m3oservices'
+twitter_url:  'https://twitter.com/m3oservices'
 mailto: 'crazybber@outlook.com'
 paginate_path: "/blog/page:num/"
 #CN have GFW
