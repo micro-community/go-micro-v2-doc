@@ -63,10 +63,10 @@ post_class: post-template
             <!-- If we want to display author's name and bio -->
             {% if page.author %}
                 <figure class="author-image">
-                    <a class="img" href="https://micro.mu" style="background-image: url({{ site.baseurl }}/images/logo.png)">
+                    <a class="img" href="{{ site.url }}" style="background-image: url({{ site.baseurl }}/images/logo.png)">
                 </figure>
                 <section class="author">
-                    <h4> <a href="https://micro.mu">{{ page.author }}</a> </h4>
+                    <h4> <a href="{{ site.url }}">{{ page.author }}</a> </h4>
                     <!-- Author Bio -->
                     <p>
 			The founding team at Micro.
