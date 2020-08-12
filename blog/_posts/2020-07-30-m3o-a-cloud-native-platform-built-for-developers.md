@@ -1,7 +1,7 @@
 ---
 layout:	post
 author: Janos Dobronszki
-title:	"Announcing: M3O - A cloud native platform built for developers"
+title:	"M3O - A cloud native platform built for developers"
 date:	2020-07-30 10:00:00
 ---
 <br>
