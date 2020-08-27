@@ -195,3 +195,7 @@
 .pricing i {
   color: green;
 }
+
+.features td {
+  padding: .50rem;
+}
