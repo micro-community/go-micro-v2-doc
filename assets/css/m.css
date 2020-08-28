@@ -199,3 +199,8 @@
 .features td {
   padding: .50rem;
 }
+.subscript {
+  font-size: 0.5em;
+  height: 100%;
+  vertical-align: middle;
+}
