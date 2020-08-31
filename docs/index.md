@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Docs[Micro V2]
 keywords: homepage
 tags: [introduction]
 sidebar: home_sidebar
