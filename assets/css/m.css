@@ -7,7 +7,7 @@
     color: #0c2e47;
     }
     body {
-    margin-top: 25px;
+      padding-top: 50px;
     }
     h2 { color: #0c2e47; }
     a { color: #3B94D9; }
@@ -194,4 +194,13 @@
 }
 .pricing i {
   color: green;
+}
+
+.features td {
+  padding: .50rem;
+}
+.subscript {
+  font-size: 0.5em;
+  height: 100%;
+  vertical-align: middle;
 }
