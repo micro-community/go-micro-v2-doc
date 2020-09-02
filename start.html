@@ -56,11 +56,9 @@ layout: default
 
     <p>
         Curl your service through the public API endpoint
-	<pre class="command">
-# get your namespace
-NAMESPACE=$(micro user namespace)
 
-# call the service
+	<pre class="command">NAMESPACE=$(micro user namespace)
+
 curl "https://$NAMESPACE.m3o.app/helloworld?name=Alice"</pre>
     </p>
 
