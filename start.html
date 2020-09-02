@@ -54,5 +54,15 @@ layout: default
 	<pre class="command"><b>micro update helloworld</b></pre>
     </p>
 
+    <p>
+        Curl your service through the public API endpoint
+	<pre class="command">
+# get your namespace
+NAMESPACE=$(micro user namespace)
+
+# call the service
+curl "https://$NAMESPACE.m3o.app/helloworld?name=Alice"</pre>
+    </p>
+
     For more info see <a href="https://m3o.dev/">m3o.dev</a> or join #m3o-support on <a href="https://slack.m3o.com">slack</a> for help.
     <br />
