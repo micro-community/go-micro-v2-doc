@@ -1,0 +1,62 @@
+<div class="col-md-8 offset-md-2">
+    <p>
+	Install Micro to build, run and manage services locally or on the M3O platform.
+	<pre class="command"><b>curl -fsSL https://install.m3o.com/micro | /bin/bash</b></pre>
+    </p>
+
+    <p>
+	This command makes the rest of your CLI commands run on the M3O platform.
+	<pre class="command"><b>micro env set platform</b></pre>
+    </p>
+
+    <p>
+	Signup is required before you can start using M3O.
+	<pre class="command"><b>micro signup</b></pre>
+    </p>
+
+    <p>
+	Login at any time with the credentials provided during signup.
+	<pre class="command"><b>micro login</b></pre>
+    </p>
+
+    <p>
+	Create a new service (follow the instructions and push to a public repo on Github)
+	<pre class="command"><b>micro new helloworld</b></pre>
+    </p>
+
+    <p>
+	Deploy the service (we're using an example helloworld service)
+	<pre class="command"><b>micro run github.com/micro/services/helloworld</b></pre>
+    </p>
+
+    <p>
+	See if your services are running.
+	<pre class="command"><b>micro status</b></pre>
+    </p>
+
+    <p>
+	See its logs.
+	<pre class="command"><b>micro logs helloworld</b></pre>
+    </p>
+
+    <p>
+	Call it.
+	<pre class="command"><b>micro helloworld call --name=Alice</b></pre>
+    </p>
+
+    <p>
+	Deploy new changes
+	<pre class="command"><b>micro update helloworld</b></pre>
+    </p>
+
+    <p>
+        Curl your service through the public API endpoint
+
+	<pre class="command">NAMESPACE=$(micro user namespace)
+
+curl "https://$NAMESPACE.m3o.app/helloworld?name=Alice"</pre>
+    </p>
+
+    For more info see <a href="https://m3o.dev/">m3o.dev</a> or join #m3o-support on <a href="https://slack.m3o.com">slack</a> for help.
+    <br />
+</div>
