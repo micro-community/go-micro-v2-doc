@@ -4,7 +4,7 @@ title:  Sixt - Micro Sponsorship Announcement
 date:   2016-04-25 09:00:00
 ---
 <br>
-Today we're excited to announce [**Sixt**](https://www.sixt.com/) as a sponsor of [**Micro**](https://micro-community.github.io/website).
+Today we're excited to announce [**Sixt**](https://www.sixt.com/) as a sponsor of [**Micro**](https://micro-community.github.io/m3o-web).
 
 Sixt is a European car rental company in over 100 countries and the leader in Germany,
 Austria and Switzerland. They have successfully built a business with a legacy of over 100 years, continually
@@ -21,7 +21,7 @@ Look to hear more from Sixt on their use of Micro in the near future.
 <center>...</center>
 <br>
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
-[micro.mu](https://micro-community.github.io/website) or the github [repo](https://github.com/micro/micro).
+[micro.mu](https://micro-community.github.io/m3o-web) or the github [repo](https://github.com/micro/micro).
 
 Follow us on Twitter at [@MicroHQ](https://twitter.com/m3ocloud) or join the [Slack](https://slack.m3o.com) 
 community [here](http://slack.m3o.com).

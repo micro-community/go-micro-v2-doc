@@ -59,7 +59,7 @@ poses the question, how do we keep functions running?
 There is an abundance of existing tooling out there for process lifecycle management, so feel free to use any of your favourite 
 process managers.
 
-However the micro toolkit now includes a convenience tool called [**micro run**](https://micro-community.github.io/website/docs/run.html).
+However the micro toolkit now includes a convenience tool called [**micro run**](https://micro-community.github.io/m3o-web/docs/run.html).
 
 Here's how to run a function:
 
@@ -83,7 +83,7 @@ to understand when monoliths, microservices or functions are appropriate.
 Look to see more on integrating micro functions with existing systems and serverless tooling in the near future.
 
 <center><p>...</p></center>
-If you want to learn more about the services we offer or microservices, checkout the [website](https://micro-community.github.io/website) or 
+If you want to learn more about the services we offer or microservices, checkout the [website](https://micro-community.github.io/m3o-web) or 
 visit [GitHub](https://github.com/micro/micro).
 
 Follow us on [Twitter](https://twitter.com/m3ocloud) or join the [Slack](http://slack.m3o.com) community.

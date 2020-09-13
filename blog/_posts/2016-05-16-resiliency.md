@@ -492,7 +492,7 @@ Micro looks to help in this journey by providing the tools to simplify building 
 this blog post has helped demonstrate some of the ways we're looking to do just that.
 
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
-[micro.mu](https://micro-community.github.io/website) or the github [repo](https://github.com/micro/micro).
+[micro.mu](https://micro-community.github.io/m3o-web) or the github [repo](https://github.com/micro/micro).
 
 Follow us on Twitter at [@MicroHQ](https://twitter.com/m3ocloud) or join the [Slack](https://slack.m3o.com) 
 community [here](http://slack.m3o.com).

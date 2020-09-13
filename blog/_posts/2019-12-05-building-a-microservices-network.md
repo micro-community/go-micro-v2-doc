@@ -5,7 +5,7 @@ title:	Building a global services network using Go, QUIC and Micro
 date:	2019-12-05 09:00:00
 ---
 
-Over the past 6 months we at [Micro](https://micro-community.github.io/website/) have been hard at work developing a global service network to build, share and collaborate on microservices.
+Over the past 6 months we at [Micro](https://micro-community.github.io/m3o-web/) have been hard at work developing a global service network to build, share and collaborate on microservices.
 
 In this post we're going to share some of the technical details, the design decisions we made, challenges we faced and ultimately how we have succeeded in building the microservices network.
 
@@ -13,7 +13,7 @@ In this post we're going to share some of the technical details, the design deci
 
 The power of collaborative development has largely been restricted to trusted environments within organisations. When done right, these private in-house platforms unlock incredible productivity and compounding value with every new service added.They provide an always-on runtime and known developer workflow for engineers to collaborate on and deliver new features to their customers. 
 
-Historically, this has been quite difficult to achieve outside of organisations. When developers decide to work on new services they often have to deal with a lot of unnecessary work when it comes to making the services available to others to consume and collaborate on. Public cloud providers are too complex and the elaborate setups when hosting things yourself don’t make things easier either. At [Micro](https://micro-community.github.io/website/) we felt this pain and decided to do something about it. We built a microservices network!
+Historically, this has been quite difficult to achieve outside of organisations. When developers decide to work on new services they often have to deal with a lot of unnecessary work when it comes to making the services available to others to consume and collaborate on. Public cloud providers are too complex and the elaborate setups when hosting things yourself don’t make things easier either. At [Micro](https://micro-community.github.io/m3o-web/) we felt this pain and decided to do something about it. We built a microservices network!
 
 The micro network looks to solve these problems using a shared global network for micro services. Let’s see how we’ve made this dream a reality!
 
@@ -73,7 +73,7 @@ It may look fairly familiar to Go developers. With Go Micro we’ve tried to mai
 
 Most of the interface methods should hopefully be self-explanatory, but you might be wondering about channels and sessions. Channels are much like addresses, providing a way to segment different message streams over the tunnel. Listeners listen on a given channel and return a unique session when a client dials into the channel. The session is used to communicate between peers on the same tunnel channel. The Go Micro tunnel provides different communication semantics too. You can choose to use either unicast or multicast. 
 
-<img src="https://micro-community.github.io/website/docs/images/session.svg"  alt="" />
+<img src="https://micro-community.github.io/m3o-web/docs/images/session.svg"  alt="" />
 
 In addition tunnels enable bidirectional connections; sessions can be dialled or listened from either side. This enables the reversal of connections so anything behind a [NAT](https://en.wikipedia.org/wiki/Network_address_translation) or without a public IP can become a server.
 
@@ -229,7 +229,7 @@ Every time we attempted to go from design diagram to implementing code we found 
 We wrote 3-4 implementations that were essentially thrown away before figuring out the best approach was to make local networking work first and then slowly carve out specific problems to solve. So proxying, following by routing and then a network interface. Eventually when these pieces were in place we could get to multi-cloud or global networking by implementing a tunnel to handle the heavy lifting.
 
 <center>
-<img src="https://micro-community.github.io/website/images/it-works.jpg" style="width: 80%; height: auto;" />
+<img src="https://micro-community.github.io/m3o-web/images/it-works.jpg" style="width: 80%; height: auto;" />
 </center>
 
 Once again, the lesson is to keep it simple, but where the task itself is complex, break it down into steps you can actually keep simple independently and then piece back together in practice.
@@ -257,7 +257,7 @@ At its core, the flap detection assigns a numerical cost to every route event. W
 The picture below depicts how the decaying actually works.
 
 <center>
-<img src="https://micro-community.github.io/website/assets/images/flap-detection.png" style="width: 80%; height: auto;" />
+<img src="https://micro-community.github.io/m3o-web/assets/images/flap-detection.png" style="width: 80%; height: auto;" />
 </center>
 
 <small>source: http://linuxczar.net/blog/2016/01/31/flap-detection/</small>
@@ -288,7 +288,7 @@ This holds true for all the individual components that make up the network. If y
 On 29th August 2019 around 4PM we sent the first successful RPC request between our laptops across the internet using the micro network.
 
 <center>
-  <img src="https://micro-community.github.io/website/assets/images/success.jpg" style="width: 80%; height: auto;" />
+  <img src="https://micro-community.github.io/m3o-web/assets/images/success.jpg" style="width: 80%; height: auto;" />
 </center>
 <br>
 
@@ -296,7 +296,7 @@ Since then we have squashed a lot of bugs and deployed the network nodes across 
 At the moment we are running the micro network in 4 cloud providers across 4 geographical regions with 3 nodes in each region.
 
 <center>
-  <img src="https://micro-community.github.io/website/assets/images/radar.png" style="width: 80%; height: auto;" />
+  <img src="https://micro-community.github.io/m3o-web/assets/images/radar.png" style="width: 80%; height: auto;" />
 </center>
 
 ## Usage
@@ -391,6 +391,6 @@ It works!
 Building distributed systems is difficult, but it turns out building the networks they communicate over is an equally, if not more difficult, problem. The classic fallacy, [the network is reliable](https://queue.acm.org/detail.cfm?id=2655736), continues to hold, as we found while building the micro network. However what’s also clear is that our world and most technology thrives through the use of networks. They underpin the very fabric of all that we’ve come to know. Our goal with the micro network is to create a new type of foundation for the open services of the future. Hopefully this post shed some light on the technical accomplishments and challenges of building such a thing.
 
 <br />
-To learn more check out the [website](https://micro-community.github.io/website), follow us on [twitter](https://twitter.com/microhq) or 
-join the [slack](https://micro-community.github.io/website/slack) community. We are hiring!
+To learn more check out the [website](https://micro-community.github.io/m3o-web), follow us on [twitter](https://twitter.com/microhq) or 
+join the [slack](https://micro-community.github.io/m3o-web/slack) community. We are hiring!
 

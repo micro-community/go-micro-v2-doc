@@ -29,7 +29,7 @@ Microservices in a nutshell is a software architecture pattern used to decompose
 that do one thing well, interact over the network and are built and managed independently.
 
 In the introductory blog [post]({{ site.baseurl }}/2016/03/17/introduction.html) we discussed what microservices are, their benefits and 
-how [Micro](https://micro-community.github.io/website) plays a role. This blog post assumes a basic understanding of microservices so if you're 
+how [Micro](https://micro-community.github.io/m3o-web) plays a role. This blog post assumes a basic understanding of microservices so if you're 
 interested in learning about them first check out the introductory post [here]({{ site.baseurl }}/2016/03/17/introduction.html).
 
 If you want to read more about the technical aspects of migrating to microservices check out the blog post by 
@@ -405,7 +405,7 @@ for a number of companies.
 <center><p>...</p></center>
 
 If you want to learn more about the services we offer or microservices, check out the [blog](/), the  website 
-[micro.mu](https://micro-community.github.io/website) or the github [repo](https://github.com/micro/micro).
+[micro.mu](https://micro-community.github.io/m3o-web) or the github [repo](https://github.com/micro/micro).
 
 Follow us on Twitter at [@MicroHQ](https://twitter.com/m3ocloud) or join the [Slack](https://slack.m3o.com) 
 community [here](http://slack.m3o.com).

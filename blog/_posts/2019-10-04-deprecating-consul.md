@@ -37,7 +37,7 @@ to operate as is but expect that the next release we do is micro v2.0.0.
 
 <center>...</center>
 <br>
-To learn more check out the [website](https://micro-community.github.io/website), follow us on [twitter](https://twitter.com/microhq) or 
+To learn more check out the [website](https://micro-community.github.io/m3o-web), follow us on [twitter](https://twitter.com/microhq) or 
 join the [slack](https://slack.m3o.com) community.
 
 <h6><a href="https://github.com/micro/micro"><i class="fab fa-github fa-2x"></i> Micro</a></h6>
