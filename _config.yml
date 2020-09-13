@@ -13,7 +13,7 @@ gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 future: true
 plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
-url:            'https://micro-community.github.io/website/'
+url:            'https://micro-community.github.io/m3o-web/'
 author:         'micro-community'
 author_url:	'https://github.com/crazybber'
 twitter_url:  'https://twitter.com/m3oservices'
@@ -35,9 +35,9 @@ defaults:
       sidebar: home_sidebar
       lang: en
 
-repository: micro-community/website
+repository: micro-community/m3o-web
 output: web
 topnav_title: Micro-Community
 site_title: Micro-Community
-baseurl: "https://micro-community.github.io/website"
+baseurl: "https://micro-community.github.io/m3o-web"
 exclude: [main.go]
