@@ -1,12 +1,12 @@
 ---
-title: Docs
+title: Docs[Micro V2]
 keywords: homepage
 tags: [introduction]
 sidebar: home_sidebar
 permalink: /docs/index.html
 ---
 
-Micro addresses the key requirements for building distributed systems in the Cloud and beyond. It leverages the microservices
+Micro[V2] addresses the key requirements for building distributed systems in the Cloud and beyond. It leverages the microservices
 architecture pattern and provides a set of services which act as the building blocks of a platform. Micro deals
 with the complexity of distributed systems and provides simpler programmable abstractions to build on.
 
@@ -15,7 +15,6 @@ with the complexity of distributed systems and provides simpler programmable abs
 Technology is constantly evolving. The infrastructure stack is always changing. Micro is a platform which
 addresses these issues with a pluggable foundation and strongly defined apis to build on. Plug into any stack or cloud.
 
-Follow us on [Twitter](https://twitter.com/microhq) or join the [Slack](https://slack.m3o.com) community.
 
 ## Features
 
