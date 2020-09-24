@@ -9,9 +9,6 @@ micro env set platform
 # Signup before getting started
 micro signup
 
-# Login with the credentials provided during signup.
-micro login
-
 # Create a new service (follow the instructions and push to Github)
 micro new helloworld
 
@@ -25,10 +22,7 @@ micro status
 micro logs helloworld
 
 # Call the service
-micro helloworld call --name=Alice
-
-# Deploy new changes
-micro update helloworld
+micro helloworld --name=Alice
 
 # Get your namespace
 NAMESPACE=$(micro user namespace)
