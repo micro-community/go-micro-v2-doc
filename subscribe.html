@@ -306,8 +306,8 @@
               },
             })
               .done(function (data) {
-                $("#payment-method-copypaste").text(
-                  "Success! Please return to your terminal."
+                $("#payment-method-copypaste").html(
+                  "Successfully Subscribed!<br><br>Please return to your terminal."
                 );
               })
               .fail(function (jqXHR, textStatus, errorThrown) {
