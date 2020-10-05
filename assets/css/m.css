@@ -204,3 +204,7 @@
   height: 100%;
   vertical-align: middle;
 }
+
+#mc_embed_signup .button {
+  background-color: #495057;
+}
