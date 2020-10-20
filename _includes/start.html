@@ -27,7 +27,7 @@ micro helloworld --name=Alice
 # Get your namespace
 NAMESPACE=$(micro user namespace)
 
-# Call service via the public http API
+# Curl it via the public http API (use m3o.dev for dev env)
 curl "https://$NAMESPACE.m3o.app/helloworld?name=Alice"</pre>
     </p>
     <br>
