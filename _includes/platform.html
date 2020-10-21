@@ -1,0 +1,36 @@
+<div class="col-md-8 offset-md-2">
+    <p><pre class="command">
+# Install the micro binary
+curl -fsSL https://install.m3o.com/micro | /bin/bash
+
+# Set the env to the platform environment
+micro env set platform
+
+# Signup and pay before getting started
+micro signup
+
+# Create a new service (follow the instructions and push to Github)
+micro new helloworld
+
+# Deploy the service from github
+micro run github.com/micro/services/helloworld
+
+# Check the service status
+micro status
+
+# Query the logs
+micro logs helloworld
+
+# Call the service
+micro helloworld --name=Alice
+
+# Get your namespace
+NAMESPACE=$(micro user namespace)
+
+# Curl it via the public http API (use m3o.dev for dev env)
+curl "https://$NAMESPACE.m3o.app/helloworld?name=Alice"</pre>
+    </p>
+    <br>
+    For more info see <a href="https://m3o.dev/">m3o.dev</a> or join #m3o-platform on <a href="https://slack.m3o.com">slack</a> for help.
+    <br />
+</div>
