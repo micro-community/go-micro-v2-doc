@@ -1,6 +1,6 @@
 name: M3O
 company_name: Micro Services, Inc
-description: A cloud native development platform
+description: A cloud platform for Micro services development
 meta_description: "The fastest way to build, share and collaborate on services in the Cloud and beyond"
 
 markdown: kramdown
