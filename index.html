@@ -45,7 +45,7 @@
           <div class="col-md-6" style="text-align: justify;">
             <h2 style="
                   margin-bottom: 20px;
-                  font-size: 3.5em;
+                  font-size: 4.5em;
                   font-weight: bold;
                   text-align: left;
                 ">
@@ -88,7 +88,6 @@
               }
 
               /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-							   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
             </style>
             <div id="mc_embed_signup">
               <div id="mc_embed_signup_scroll">
@@ -100,13 +99,47 @@
                       Go To Join</a>
                   </div>
                 </label>
+	<center style="max-width: 700px; overflow: scroll; margin: 0 auto;">
+		<iframe
+		  src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C1%29&t=cobalt&wt=none&l=application%2Fx-sh&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=false&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=1x&wm=false&code=%2523%2520Install%2520the%2520micro%2520binary%250Acurl%2520-fsSL%2520https%253A%252F%252Finstall.m3o.com%252Fmicro%2520%257C%2520%252Fbin%252Fbash%250A%250A%2523%2520Signup%2520before%2520getting%2520started%250Amicro%2520signup%250A%250A%2523%2520Create%2520a%2520new%2520service%2520%28follow%2520the%2520instructions%2520and%2520push%2520to%2520Github%29%250Amicro%2520new%2520helloworld%250A%250A%2523%2520Deploy%2520the%2520service%2520from%2520github%250Amicro%2520run%2520github.com%252Fmicro%252Fservices%252Fhelloworld%250A%250A%2523%2520Check%2520the%2520service%2520status%250Amicro%2520status%250A%250A%2523%2520Query%2520the%2520logs%250Amicro%2520logs%2520helloworld%250A%250A%2523%2520Call%2520the%2520service%250Amicro%2520helloworld%2520--name%253DAlice%250A%250A%2523%2520Get%2520your%2520namespace%250ANAMESPACE%253D%2524%28micro%2520user%2520namespace%29%250A%250A%2523%2520Curl%2520it%2520via%2520the%2520public%2520http%2520API%250Acurl%2520%2522https%253A%252F%252F%2524NAMESPACE.m3o.dev%252Fhelloworld%253Fname%253DAlice%2522"
+		  style="width: 680px; height: 687px; border:0; transform: scale(1); overflow:hidden;"
+		  sandbox="allow-scripts allow-same-origin">
+		</iframe>
+	</center>
+
+      <hr id="more" />
+
+      <div class="row pad">
+	<div class="container-fluid">
+	    <div class="row">
+		<div class="col-md-10 offset-md-1">
+		    <center>
+			<h3><b class="bold";>M3O</b></h3>
+			<small><i>(pronounced "em-3-oh")</i></small>
+			<p style="margin-top:5px;">A cloud platform for microservices development</p>
+			<br>
+		    </center>
               </div>
             </div>
+	    <div class="row">
+		<div class="col-md-6" style="text-align: justify; position: relative; margin: 0 auto; max-width: 560px;">
+		    <p>
+			<b>M3O</b> is a cloud native platform for <a href="https://micro.mu/?ref=m3o" style="color: black;"><b>Micro</b></a> 
+			 services development. A fully managed service which enables developers to focus on building products rather managing infrastructure.
+		   </p>
+		   <p>
+			Teams and individuals should feel empowered to build software at an accelerated pace without friction or 
+			limitations, to create the future of technology we all want and need.
+		   </p>
+		   <p>Micro is redefining the way we build software by focusing entirely on the needs of developers and providing 
+			an environment in which we can realise the true potential of the cloud.</p>
+		    <br>
           </div>
         </div>
-        </div>
+          </div>
       </div>
-      <hr />
+
+      <hr id="features" />
       <div style="margin: 100px 25px 50px 25px;">
         <center>
           <h3><b>Key Features</b></h3>
@@ -116,16 +149,72 @@
       <div class="row">
         {% include features.html %}
       </div>
+  
       <hr />
-      <div style="margin: 100px 25px 25px 25px;">
-        <center>
-          <h3><b>Get Started in Minutes</b></h3>
-          <h5>From source to running in just ten commands</h5> 
-       </center>
-      </div>
-      <div class="row" style="max-width: 1024px; margin: 25px auto; padding-bottom: 100px;">
-        {% include start.html %}
-      </div>
+  
+    <div class="row tpad bpad">
+	<div class="container-fluid">
+	    <div class="row">
+               <div class="col-md-10 offset-md-1">
+		  <center>
+		    <h3><b>Simple, Fair and Predictable Pricing</b></h3>
+		    <h5>Cloud pricing is anxiety inducing, for that reason we're keeping things simple with a single subscription</h5>
+		  </center>
+		  <div class="row">
+  			<style>
+				.panel-body { padding: 35px 0 35px 0 }
+			</style>
+		      {% include features-dev.html %}
+		  </div>
+                </div>
+             </div>
+         </div>
+    </div>
+
+      <hr />
+
+    <div class="row tpad">
+	<div class="container-fluid">
+	    <div class="row">
+		<div class="col-md-10 offset-md-1">
+		    <center>
+			<h2 id="community"><b>Be part of the journey</b></h2>
+		    </center>
+		</div>
+	    </div>
+	</div>
+    </div>
+
+    <div class="row tpad bpad">
+	<div class="container-fluid">
+	    <div class="row">
+		<div class="col-md-4 offset-md-1">
+		    <h5 style="margin-top: 0; font-weight: bold;">Join the Community</h5>
+		    <h5>Get involved on <a href="https://slack.m3o.com">Slack</a> and <a href="https://discord.gg/hbmJEct">Discord</a></h5>
+		    <br>
+		    <h4 style="color: #565b73;">
+			Be part of a vibrant community of developers all learning and working together. 
+			Thousands are collaborating to build Micro services.
+		    </h4>
+		    <br>
+		</div>
+		<div class="col-md-6">
+		   <center>
+			<a href="https://slack.m3o.com">
+			  <img src="/images/slack.png" style="vertical-align: bottom; height: auto; max-width: 200px; margin-bottom: 20px; margin-right: 25px;"/>
+			</a>
+			<a href="https://discord.gg/hbmJEct">
+			  <img src="/images/discord.png" style="vertical-align: bottom; height: auto; max-width: 200px; margin-bottom: 20px; margin-left: 25px;"/>
+			</a>
+		      </a>
+		    </center>
+		</div>
+
+	    </div>
+	</div>
+    </div>
+
+
       <div class="row" style="background-color: whitesmoke; padding-bottom: 50px;">
         <div class="col-md-5 offset-md-1" style="padding: 50px 0 0 25px;">
            <h3><b>Get started on a journey towards microservices development today</b></h3>

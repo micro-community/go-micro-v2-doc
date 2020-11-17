@@ -79,15 +79,43 @@
             <h1><b>Subscribe to the M3O Platform</b></h1>
             <p>&nbsp;</p>
             <h3>
-              M3O is a cloud native platform built for Micro services
-              development
+              M3O is a cloud platform for Micro services development
             </h3>
           </center>
           <div>
-            <div class="row">
-              {% include features-dev.html %}
+            <div class="row" style="padding-top: 25px;">
+	      <div class="col-lg-4 border rounded offset-md-1">
+		<div class="panel panel-success">
+		  <div class="panel-body" style="text-align: center;">
+		    <h4><b>Platform</b>
+			<br><small style="margin: 0 10px 0 10px;">Secure, scalable and supported production environment</small>
+		    </h4>
+		    <div class="the-price">
+		      <h1>$35<span class="subscript"> / user / month</span></h1>
+		      <br>
+		    </div>
+		    <table class="table features">
+		      <tr>
+			<td>Micro as a Service</td>
+		      </tr>
+		      <tr class="active">
+			<td>All the Dev features plus</td>
+		      </tr>
+		      <tr>
+			<td>2x Increased resource limits</td>
+		      </tr>
+		      <tr>
+			<td>Business day SLA response time</td>
+		      </tr>
+		      <tr>
+			<td>Slack & Email support</td>
+		      </tr>
+		    </table>
+		  </div>
+		</div>
+	      </div>
 
-              <div class="col-lg-4 border rounded" style="margin: 25px">
+              <div class="col-lg-4 border rounded offset-md-1">
                 <h4>Subscribe</h4>
                 <center>
                   <h5 class="text-muted">
@@ -295,7 +323,7 @@
                 paymentMethod: result.paymentMethod.id,
               },
               headers: {
-                Namespace: "micro",
+                "Micro-Namespace": "micro",
               },
             })
               .done(function (data) {
