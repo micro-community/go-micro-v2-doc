@@ -1,19 +1,19 @@
 <div class="col-md-8 offset-md-2">
     <p><pre class="command">
 # Install the micro binary
-curl -fsSL https://install.m3o.com/micro | /bin/bash
+go get github.com/micro/micro/v3
 
-# Set the env to the dev environment
-micro env set dev
+# Run the server locally
+micro server
 
-# Signup before getting started
-micro signup
+# Login to the server(user: admin pass: micro)
+micro login
 
 # Create a new service (follow the instructions and push to Github)
 micro new helloworld
 
 # Deploy the service from github
-micro run github.com/micro/services/helloworld
+micro run helloworld
 
 # Check the service status
 micro status
@@ -28,9 +28,9 @@ micro helloworld --name=Alice
 NAMESPACE=$(micro user namespace)
 
 # Curl it via the public http API
-curl "https://$NAMESPACE.m3o.dev/helloworld?name=Alice"</pre>
+curl "https://$NAMESPACE.localhost:8080/helloworld?name=Alice"</pre>
     </p>
     <br>
-    For more info see the <a href="https://docs.m3o.com/">docs</a> or join #m3o-dev on <a href="https://slack.m3o.com">slack</a> for help.
+    For more info see the <a href="https://m3o-docs.arch.wiki/">docs</a> or <a href="https://github.com/micro-community/how-to-join">join wechat</a> for help.
     <br />
 </div>
