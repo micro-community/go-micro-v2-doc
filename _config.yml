@@ -13,10 +13,10 @@ gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 future: true
 plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
-url:            'https://micro-community.github.io/m3o-web/'
+url:            'https://micro-community.github.io/go-micro-v2-docs/'
 author:         'micro-community'
 author_url:	'https://github.com/crazybber'
-twitter_url:  'https://twitter.com/m3oservices'
+#twitter_url:  'https://twitter.com/m3oservices'
 mailto: 'crazybber@outlook.com'
 #CN have GFW
 #google_analytics: UA-70478210-1
@@ -25,18 +25,18 @@ sidebars:
 defaults:
   -
     scope:
-      path: "docs"
+      path: "."
       type: "pages"
     values:
-      layout: "docs/page"
+      layout: "page"
       comments: true
       search: true
       sidebar: home_sidebar
       lang: en
 
-repository: micro-community/m3o-web
+repository: micro-community/go-micro-v2-docs
 output: web
 topnav_title: Micro-Community
 site_title: Micro-Community
-baseurl: "https://micro-community.github.io/m3o-web"
+baseurl: "https://micro-community.github.io/go-micro-v2-docs"
 exclude: [main.go]
