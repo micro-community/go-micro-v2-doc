@@ -3,7 +3,7 @@ title: GRPC Gateway
 keywords: grpc, grpc-gateway
 tags: [grpc, grpc-gateway]
 sidebar: home_sidebar
-permalink: /docs/grpc-gateway.html
+permalink: /grpc-gateway.html
 summary: 
 ---
 
