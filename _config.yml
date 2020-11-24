@@ -10,7 +10,7 @@ aux_links:
   "micro community on GitHub":
     - "//github.com/micro-community"
 
-footer_content: "Copyright &copy; 2020 Micro Community, Org. Powered by <a href=\"https://github.com/micro-community\">micro-community team.</a>"
+footer_content: 'Copyright &copy; 2020 Micro Community, Org. Powered by <a href="https://github.com/micro-community">micro-community team.</a>'
 
 markdown: kramdown
 highlighter: rouge
@@ -18,15 +18,13 @@ highlighter: rouge
 theme: just-the-docs
 
 remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-feed
 
 sass:
-    sass_dir: _sass
+  sass_dir: _sass
 include:
   - _sass/
 color_scheme: m3o
-# Just the docs configs, see https://pmarsceill.github.io/just-the-docs/docs/configuration/ 
+# Just the docs configs, see https://pmarsceill.github.io/just-the-docs/docs/configuration/
 logo: "/images/logo.png"
 search_enabled: true
 heading_anchors: true
@@ -40,30 +38,10 @@ webserver_headers:
   - - Access-Control-Allow-Methods
     - GET, OPTIONS, HEAD
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-logo: false
 paginate: 15
 gems: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 future: true
-plugins: [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
+plugins: [jekyll-feed, jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 # Details for the RSS feed generator
 url: "https://micro-community.github.io/go-micro-v2-doc/"
 author: "micro-community"
