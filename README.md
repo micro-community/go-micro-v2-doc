@@ -1,3 +1,3 @@
 # website
 
-micro-community website
+go-micro v2 docs
