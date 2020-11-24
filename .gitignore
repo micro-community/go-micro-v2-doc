@@ -1,8 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-_pdf
-.idea/
+_site
 .DS_Store
 *.swp
 .sass-cache
