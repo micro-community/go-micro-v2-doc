@@ -53,7 +53,7 @@ include:
 color_scheme: m3o
 
 # Just the docs configs, see https://pmarsceill.github.io/just-the-docs/docs/configuration/ 
-logo: "/assets/images/logo.png"
+logo: "/images/logo.png"
 search_enabled: true
 heading_anchors: true
 # Enable support for hyphenated search words:
