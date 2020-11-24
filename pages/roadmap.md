@@ -3,7 +3,7 @@ title: Roadmap
 keywords: roadmap
 tags: [roadmap]
 sidebar: home_sidebar
-permalink: /docs/roadmap.html
+permalink: /roadmap.html
 summary: 
 ---
 

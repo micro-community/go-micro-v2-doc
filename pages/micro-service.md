@@ -3,7 +3,7 @@ title: Micro Service
 keywords: micro, service
 tags: [micro, service]
 sidebar: home_sidebar
-permalink: /docs/micro-service.html
+permalink: /micro-service.html
 summary: Turn anything into a micro service
 ---
 

@@ -3,7 +3,7 @@ title: Features
 keywords: features
 tags: [features]
 sidebar: home_sidebar
-permalink: /docs/features.html
+permalink: /features.html
 summary: 
 ---
 

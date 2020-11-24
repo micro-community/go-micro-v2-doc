@@ -3,7 +3,7 @@ title: Docs[Go-Micro(v2)]
 keywords: homepage
 tags: [introduction]
 sidebar: home_sidebar
-permalink: /docs/index.html
+permalink: /index.html
 ---
 
 Micro[V2] addresses the key requirements for building distributed systems in the Cloud and beyond. It leverages the microservices

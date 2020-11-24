@@ -3,7 +3,7 @@ title: Fault Tolerance
 keywords: fault tolerance
 tags: [fault tolerance]
 sidebar: home_sidebar
-permalink: /docs/fault-tolerance.html
+permalink: /fault-tolerance.html
 summary: 
 ---
 
