@@ -3,7 +3,7 @@ title: FAQ
 keywords: faq
 tags: [faq]
 sidebar: home_sidebar
-permalink: /faq.html
+permalink: /faq
 summary:
 ---
 
@@ -15,8 +15,7 @@ Micro empowers developers to build, share and collaborate on distributed systems
 
 - Micro is a [Framework](https://github.com/micro/go-micro)
 - Micro is a [Runtime](https://github.com/micro/micro)
-- Micro is a [Network](https://micro/network.html)
-- Micro is a [Community](https://slack.m3o.com/)
+- Micro is a [Network](network.html)
 
 ### Open Source
 

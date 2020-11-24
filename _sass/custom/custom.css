@@ -19,8 +19,6 @@ body {
   .site-nav {
     padding-top: 1rem;
   }
-  .site-header {
-  }
 }
 @media (min-width: 1020px) {
   .side-bar {
