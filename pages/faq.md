@@ -30,10 +30,10 @@ Find all the tools at [github.com/micro](https://github.com/micro).
 
 ### Network
 
-Micro provides an open global always-on cloud environment for sharing and running services. The [network](https://micro-community.github.io/go-micro-v2/network.html) 
+Micro provides an open global always-on cloud environment for sharing and running services. The [network](https://micro-community.github.io/go-micro-v2-doc/network.html) 
 can be joined and used by anyone. It's a great way to unlock public collaboration outside of any one organisation or team.
 
-Explore the [network](https://micro-community.github.io/go-micro-v2/network.html).
+Explore the [network](https://micro-community.github.io/go-micro-v2-doc/network.html).
 
 ### Community
 
@@ -45,13 +45,13 @@ Invite yourself at [micro.mu/slack/](https://slack.m3o.com/).
 
 Start with [go-micro](https://github.com/micro/go-micro). The readme provides a sample microservice.
 
-Learn more by reading the [getting started](https://micro-community.github.io/go-micro-v2/writing-a-go-service.html) guide or checkout the [examples](https://github.com/micro/examples).
+Learn more by reading the [getting started](https://micro-community.github.io/go-micro-v2-doc/writing-a-go-service.html) guide or checkout the [examples](https://github.com/micro/examples).
 
 Use the [micro](https://github.com/micro/micro) toolkit to access microservices via the cli, web ui, slack or api gateway.
 
 ## Who's using Micro?
 
-See the [users](https://micro-community.github.io/go-micro-v2/users.html) page with a list of companies using Micro (but note it may be out of date). 
+See the [users](https://micro-community.github.io/go-micro-v2-doc/users.html) page with a list of companies using Micro (but note it may be out of date). 
 
 Many more are also using it but not yet publicly listed. Feel free to add your company if you're using Micro.
 
@@ -143,6 +143,6 @@ Use go-kit where you want complete control. Use go-micro where you want an opini
 ## Where Can I Learn More?
 
 - Join the slack community - [micro.mu/slack](https://slack.m3o.com)
-- Read the blog - [micro.mu/blog](https://micro-community.github.io/go-micro-v2/blog)
+- Read the blog - [micro.mu/blog](https://micro-community.github.io/go-micro-v2-doc/blog)
 
 {% include docs/links.html %}

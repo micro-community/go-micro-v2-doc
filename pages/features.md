@@ -13,7 +13,7 @@ The features page keeps track of the most important or noteworthy features.
 
 - [Framework](https://github.com/micro/go-micro) for writing services
 - [Runtime](https://github.com/micro/micro) to manage services
-- [Network](https://micro-community.github.io/go-micro-v2/network.html) to share services
+- [Network](https://micro-community.github.io/go-micro-v2-doc/network.html) to share services
 - [Examples](https://github.com/micro/examples) to learn by example
 - [Plugins](https://github.com/micro/go-plugins) to extend the tools
 
@@ -40,7 +40,7 @@ The features page keeps track of the most important or noteworthy features.
 
 ## Network
 
-The [network](https://micro-community.github.io/go-micro-v2/network.html) is a place to share and collaborate on services
+The [network](https://micro-community.github.io/go-micro-v2-doc/network.html) is a place to share and collaborate on services
 
 * Open global services network
 * Multi-cloud and multi-region
@@ -59,9 +59,9 @@ The [network](https://micro-community.github.io/go-micro-v2/network.html) is a p
 
 Run services anywhere and everywhere
 
-* [Local](https://micro-community.github.io/go-micro-v2/deploy-local.html)
-* [Docker](https://micro-community.github.io/go-micro-v2/deploy-docker.html)
-* [Kubernetes](https://micro-community.github.io/go-micro-v2/deploy-kubernetes.html)
+* [Local](https://micro-community.github.io/go-micro-v2-doc/deploy-local.html)
+* [Docker](https://micro-community.github.io/go-micro-v2-doc/deploy-docker.html)
+* [Kubernetes](https://micro-community.github.io/go-micro-v2-doc/deploy-kubernetes.html)
 
 
 {% include docs/links.html %}
