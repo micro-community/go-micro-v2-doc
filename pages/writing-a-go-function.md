@@ -244,7 +244,7 @@ if err := function.Run(); err != nil {
 }
 ```
 
-Upon serving a request the function will exit. You can use [micro run](https://micro-community.github.io/m3o-web/docs/run.html) to manage the lifecycle 
+Upon serving a request the function will exit. You can use [micro run](https://micro-community.github.io/go-micro-v2/run.html) to manage the lifecycle 
 of functions. A complete example can be found at [examples/function](https://github.com/micro/examples/tree/master/function).
 
 ### 6. The complete function

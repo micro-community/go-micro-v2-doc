@@ -1,6 +1,6 @@
 ---
 title: Go Micro
-permalink: "/docs/go-micro.html"
+permalink: "/go-micro.html"
 layout: redirect
 redirect: "/framework.html"
 ---

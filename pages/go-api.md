@@ -3,7 +3,7 @@ title: Go API
 keywords: go-api
 tags: [go-micro]
 sidebar: home_sidebar
-permalink: "/docs/go-api.html"
+permalink: "/go-api.html"
 summary: a package for defining api routes and handlers
 ---
 
@@ -15,9 +15,9 @@ The Go API library provides api gateway routing capabilities. A microservice arc
 separate service. An api gateway provides a single entry point to consolidate these services into a unified api. The 
 Go API uses routes defined in service discovery metadata to generate routing rules and serve http requests.
 
-<img src="https://micro-community.github.io/m3o-web/docs/images/go-api.png?v=1" alt="Go API" />
+<img src="https://micro-community.github.io/go-micro-v2/images/go-api.png?v=1" alt="Go API" />
 
-Go API is the basis for the [micro api](https://micro-community.github.io/m3o-web/docs/api.html).
+Go API is the basis for the [micro api](https://micro-community.github.io/go-micro-v2/api.html).
 
 ## Handlers
 
